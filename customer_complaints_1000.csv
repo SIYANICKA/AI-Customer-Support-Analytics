@@ -1,0 +1,1001 @@
+Complaint_ID,Complaint_Date,Channel,Region,Product,Category,Issue,Priority,Resolution_Time_Hours,CSAT_Score,Sentiment,Status
+CMP-0001,2026-07-24,Phone,India,Web Store,Returns & Refunds,Return request not processed,Low,49,4,Positive,Resolved
+CMP-0002,2026-07-20,Email,India,Marketplace,Returns & Refunds,Return request not processed,Medium,51,5,Positive,Resolved
+CMP-0003,2026-07-25,Chat,India,Mobile App,Returns & Refunds,Refund status unclear,Medium,38,4,Positive,Resolved
+CMP-0004,2026-07-28,Email,India,Premium Plan,Delivery,Wrong delivery status,High,43,4,Positive,Resolved
+CMP-0005,2026-07-03,Chat,Singapore,Standard Plan,Billing & Payments,Payment failed but money was deducted,Low,11,5,Positive,Resolved
+CMP-0006,2026-07-03,Email,India,Premium Plan,Returns & Refunds,Return request not processed,Medium,35,4,Positive,Resolved
+CMP-0007,2026-07-23,Email,India,Premium Plan,Returns & Refunds,Return pickup delayed,Medium,45,3,Neutral,Resolved
+CMP-0008,2026-07-08,Email,India,Marketplace,Returns & Refunds,Refund status unclear,Low,16,4,Positive,Resolved
+CMP-0009,2026-07-07,Web Form,India,Mobile App,Delivery,Order delivered late,Low,18,5,Positive,Resolved
+CMP-0010,2026-07-18,Email,India,Marketplace,Technical Issue,Error while placing order,Low,12,4,Positive,Resolved
+CMP-0011,2026-07-28,Chat,India,Mobile App,Delivery,Package not delivered,High,42,4,Positive,Resolved
+CMP-0012,2026-07-15,Chat,India,Marketplace,Product Quality,Wrong product received,Low,36,4,Positive,Resolved
+CMP-0013,2026-07-25,Phone,Japan,Premium Plan,Billing & Payments,Charged twice for the same order,High,11,5,Positive,Resolved
+CMP-0014,2026-07-30,Social Media,USA,Marketplace,Technical Issue,Checkout button not working,Low,10,5,Positive,Resolved
+CMP-0015,2026-07-30,Phone,Japan,Marketplace,Delivery,Wrong delivery status,Medium,22,4,Positive,Resolved
+CMP-0016,2026-07-31,Email,India,Marketplace,Subscription,Plan upgrade issue,Low,12,5,Positive,Resolved
+CMP-0017,2026-07-06,Email,Japan,Marketplace,Service Experience,Agent was not helpful,Low,21,4,Positive,Resolved
+CMP-0018,2026-07-15,Phone,India,Premium Plan,Delivery,Package not delivered,High,36,4,Positive,Resolved
+CMP-0019,2026-07-08,Email,Japan,Marketplace,Delivery,Wrong delivery status,Low,30,3,Neutral,Resolved
+CMP-0020,2026-07-09,Web Form,India,Web Store,Billing & Payments,Charged twice for the same order,High,7,5,Positive,Resolved
+CMP-0021,2026-07-07,Email,Japan,Standard Plan,Subscription,Subscription benefit missing,Low,20,5,Positive,Resolved
+CMP-0022,2026-07-02,Phone,Singapore,Mobile App,Technical Issue,Mobile app crashes,High,17,4,Positive,Resolved
+CMP-0023,2026-07-09,Chat,India,Web Store,Delivery,Package not delivered,Low,13,4,Positive,Resolved
+CMP-0024,2026-07-03,Email,Singapore,Mobile App,Product Quality,Product arrived damaged,Medium,30,5,Positive,Resolved
+CMP-0025,2026-07-09,Email,India,Standard Plan,Product Quality,Product arrived damaged,Medium,40,3,Neutral,Pending
+CMP-0026,2026-07-02,Email,India,Marketplace,Billing & Payments,Unexpected charge on account,High,15,4,Positive,Resolved
+CMP-0027,2026-07-03,Email,Japan,Web Store,Technical Issue,Website page not loading,Medium,13,5,Positive,Resolved
+CMP-0028,2026-07-14,Chat,India,Mobile App,Subscription,Subscription renewed unexpectedly,High,21,5,Positive,Resolved
+CMP-0029,2026-07-09,Email,USA,Web Store,Delivery,Wrong delivery status,Low,19,4,Positive,Resolved
+CMP-0030,2026-07-04,Email,UK,Marketplace,Delivery,Order delivered late,Medium,31,5,Positive,Resolved
+CMP-0031,2026-07-15,Web Form,India,Web Store,Subscription,Unable to cancel subscription,Medium,13,5,Positive,Escalated
+CMP-0032,2026-07-09,Web Form,India,Web Store,Returns & Refunds,Return pickup delayed,Medium,25,4,Positive,Resolved
+CMP-0033,2026-07-17,Phone,India,Premium Plan,Delivery,Package not delivered,Low,35,5,Positive,Resolved
+CMP-0034,2026-07-25,Web Form,India,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,13,5,Positive,Resolved
+CMP-0035,2026-07-18,Email,Singapore,Web Store,Login & Account,Unable to reset password,Medium,11,4,Positive,Resolved
+CMP-0036,2026-07-29,Chat,USA,Mobile App,Technical Issue,Mobile app crashes,Low,20,5,Positive,Resolved
+CMP-0037,2026-07-28,Social Media,USA,Web Store,Returns & Refunds,Exchange request pending,Low,41,5,Positive,Resolved
+CMP-0038,2026-07-09,Web Form,India,Web Store,Billing & Payments,Unexpected charge on account,Medium,1,5,Positive,Resolved
+CMP-0039,2026-07-27,Web Form,Japan,Premium Plan,Technical Issue,Website page not loading,High,18,4,Positive,Resolved
+CMP-0040,2026-07-13,Social Media,India,Marketplace,Delivery,Order delivered late,Medium,28,3,Neutral,Escalated
+CMP-0041,2026-07-02,Email,Singapore,Premium Plan,Product Quality,Missing component in package,Medium,33,5,Positive,Resolved
+CMP-0042,2026-07-02,Chat,UK,Premium Plan,Delivery,Order delivered late,High,42,4,Positive,Resolved
+CMP-0043,2026-07-20,Chat,India,Premium Plan,Subscription,Subscription renewed unexpectedly,Low,11,5,Positive,Resolved
+CMP-0044,2026-07-18,Phone,India,Premium Plan,Delivery,Wrong delivery status,High,36,4,Positive,Resolved
+CMP-0045,2026-07-27,Phone,India,Marketplace,Subscription,Subscription renewed unexpectedly,Medium,13,5,Positive,Resolved
+CMP-0046,2026-07-17,Chat,Japan,Web Store,Returns & Refunds,Return pickup delayed,Low,43,5,Positive,Resolved
+CMP-0047,2026-07-11,Chat,UK,Marketplace,Billing & Payments,Charged twice for the same order,Medium,10,5,Positive,Resolved
+CMP-0048,2026-07-20,Email,India,Standard Plan,Product Quality,Product quality below expectation,Medium,31,4,Positive,Resolved
+CMP-0049,2026-07-29,Chat,India,Mobile App,Delivery,Delivery address issue,Medium,30,5,Positive,Resolved
+CMP-0050,2026-07-15,Email,India,Mobile App,Service Experience,Customer wants escalation,Medium,22,4,Positive,Resolved
+CMP-0051,2026-07-27,Social Media,USA,Marketplace,Returns & Refunds,Return pickup delayed,Medium,21,4,Positive,Resolved
+CMP-0052,2026-07-25,Phone,Japan,Premium Plan,Returns & Refunds,Refund status unclear,Low,36,4,Positive,Resolved
+CMP-0053,2026-07-08,Email,India,Premium Plan,Technical Issue,Website page not loading,High,16,5,Positive,Resolved
+CMP-0054,2026-07-03,Chat,India,Web Store,Billing & Payments,Refund not received,High,23,5,Positive,Resolved
+CMP-0055,2026-07-31,Email,Japan,Marketplace,Technical Issue,Mobile app crashes,Low,19,5,Positive,Resolved
+CMP-0056,2026-07-18,Chat,India,Standard Plan,Billing & Payments,Unexpected charge on account,Low,4,5,Positive,Resolved
+CMP-0057,2026-07-24,Chat,India,Standard Plan,Delivery,Delivery address issue,Medium,28,5,Positive,Resolved
+CMP-0058,2026-07-03,Web Form,UK,Mobile App,Returns & Refunds,Return request not processed,Medium,39,4,Positive,Resolved
+CMP-0059,2026-07-25,Chat,Japan,Premium Plan,Billing & Payments,Payment failed but money was deducted,Low,13,4,Positive,Resolved
+CMP-0060,2026-07-08,Phone,India,Premium Plan,Billing & Payments,Charged twice for the same order,High,19,5,Positive,Resolved
+CMP-0061,2026-07-20,Web Form,India,Mobile App,Returns & Refunds,Return request not processed,High,53,3,Neutral,Resolved
+CMP-0062,2026-07-06,Chat,India,Premium Plan,Returns & Refunds,Refund status unclear,High,62,3,Neutral,Escalated
+CMP-0063,2026-07-30,Social Media,India,Mobile App,Login & Account,Account locked after login attempts,Low,12,5,Positive,Pending
+CMP-0064,2026-07-04,Email,USA,Web Store,Subscription,Subscription renewed unexpectedly,Medium,10,5,Positive,Resolved
+CMP-0065,2026-07-03,Chat,Japan,Premium Plan,Product Quality,Product arrived damaged,Medium,37,4,Positive,Resolved
+CMP-0066,2026-07-23,Chat,India,Standard Plan,Product Quality,Product arrived damaged,Medium,16,5,Positive,Resolved
+CMP-0067,2026-07-09,Chat,USA,Marketplace,Returns & Refunds,Exchange request pending,Medium,26,5,Positive,Pending
+CMP-0068,2026-07-11,Phone,Japan,Standard Plan,Subscription,Subscription renewed unexpectedly,Low,10,5,Positive,Resolved
+CMP-0069,2026-07-18,Chat,USA,Premium Plan,Delivery,Wrong delivery status,Low,20,4,Positive,Resolved
+CMP-0070,2026-07-21,Chat,India,Standard Plan,Login & Account,Two-factor authentication issue,Medium,12,4,Positive,Resolved
+CMP-0071,2026-07-12,Phone,India,Marketplace,Delivery,Delivery address issue,Medium,30,5,Positive,Resolved
+CMP-0072,2026-07-09,Chat,Japan,Premium Plan,Login & Account,Cannot update profile details,Low,4,5,Positive,Resolved
+CMP-0073,2026-07-24,Email,USA,Premium Plan,Login & Account,Account locked after login attempts,Medium,10,5,Positive,Resolved
+CMP-0074,2026-07-01,Chat,India,Premium Plan,Billing & Payments,Refund not received,High,7,4,Positive,Resolved
+CMP-0075,2026-07-04,Phone,India,Standard Plan,Billing & Payments,Unexpected charge on account,High,16,5,Positive,Resolved
+CMP-0076,2026-07-27,Email,USA,Mobile App,Delivery,Order delivered late,Medium,30,5,Positive,Resolved
+CMP-0077,2026-07-03,Email,Japan,Premium Plan,Login & Account,Account locked after login attempts,Low,7,5,Positive,Resolved
+CMP-0078,2026-07-10,Phone,India,Standard Plan,Returns & Refunds,Refund status unclear,Medium,46,4,Positive,Resolved
+CMP-0079,2026-07-09,Web Form,India,Web Store,Returns & Refunds,Return request not processed,High,69,4,Positive,Resolved
+CMP-0080,2026-07-16,Email,India,Marketplace,Billing & Payments,Charged twice for the same order,High,8,5,Positive,Resolved
+CMP-0081,2026-07-26,Email,India,Premium Plan,Login & Account,Two-factor authentication issue,Low,6,5,Positive,Pending
+CMP-0082,2026-07-03,Phone,USA,Web Store,Billing & Payments,Refund not received,High,19,4,Positive,Resolved
+CMP-0083,2026-07-23,Chat,Japan,Premium Plan,Returns & Refunds,Return pickup delayed,High,56,4,Positive,Resolved
+CMP-0084,2026-07-20,Chat,USA,Premium Plan,Technical Issue,Mobile app crashes,High,23,5,Positive,Resolved
+CMP-0085,2026-07-19,Social Media,UK,Premium Plan,Service Experience,Support response was slow,Low,20,4,Positive,Resolved
+CMP-0086,2026-07-03,Email,UK,Standard Plan,Returns & Refunds,Return pickup delayed,Medium,28,4,Positive,Resolved
+CMP-0087,2026-07-22,Chat,USA,Premium Plan,Billing & Payments,Refund not received,Medium,13,5,Positive,Resolved
+CMP-0088,2026-07-27,Social Media,India,Marketplace,Delivery,Order delivered late,Low,30,5,Positive,Resolved
+CMP-0089,2026-07-25,Phone,Japan,Standard Plan,Billing & Payments,Unexpected charge on account,High,14,5,Positive,Resolved
+CMP-0090,2026-07-26,Email,Singapore,Marketplace,Delivery,Delivery address issue,Medium,25,5,Positive,Resolved
+CMP-0091,2026-07-15,Email,USA,Mobile App,Returns & Refunds,Return request not processed,Low,51,4,Positive,Resolved
+CMP-0092,2026-07-08,Chat,Japan,Standard Plan,Login & Account,Cannot update profile details,Medium,6,5,Positive,Resolved
+CMP-0093,2026-07-11,Web Form,India,Standard Plan,Returns & Refunds,Refund status unclear,Low,38,5,Positive,Resolved
+CMP-0094,2026-07-12,Web Form,Japan,Standard Plan,Delivery,Delivery address issue,Low,32,4,Positive,Resolved
+CMP-0095,2026-07-08,Social Media,India,Standard Plan,Subscription,Subscription renewed unexpectedly,Medium,11,4,Positive,Resolved
+CMP-0096,2026-07-16,Chat,UK,Web Store,Subscription,Subscription benefit missing,Medium,13,5,Positive,Resolved
+CMP-0097,2026-07-24,Email,Singapore,Mobile App,Product Quality,Wrong product received,Low,38,4,Positive,Escalated
+CMP-0098,2026-07-28,Chat,USA,Mobile App,Technical Issue,Checkout button not working,Medium,19,5,Positive,Pending
+CMP-0099,2026-07-08,Phone,India,Premium Plan,Product Quality,Product arrived damaged,Medium,24,5,Positive,Resolved
+CMP-0100,2026-07-02,Chat,USA,Mobile App,Returns & Refunds,Return request not processed,Medium,42,4,Positive,Resolved
+CMP-0101,2026-07-06,Chat,Japan,Web Store,Technical Issue,Website page not loading,Medium,20,5,Positive,Resolved
+CMP-0102,2026-07-09,Email,UK,Standard Plan,Technical Issue,Website page not loading,High,24,5,Positive,Resolved
+CMP-0103,2026-07-31,Phone,India,Standard Plan,Technical Issue,Checkout button not working,High,9,4,Positive,Pending
+CMP-0104,2026-07-04,Email,India,Standard Plan,Technical Issue,Checkout button not working,Low,21,5,Positive,Pending
+CMP-0105,2026-07-30,Email,Japan,Mobile App,Billing & Payments,Payment failed but money was deducted,Low,16,5,Positive,Resolved
+CMP-0106,2026-07-22,Email,India,Premium Plan,Product Quality,Missing component in package,Low,43,5,Positive,Resolved
+CMP-0107,2026-07-12,Chat,Japan,Marketplace,Returns & Refunds,Return request not processed,High,56,4,Positive,Resolved
+CMP-0108,2026-07-29,Email,India,Marketplace,Delivery,Delivery address issue,Medium,24,5,Positive,Resolved
+CMP-0109,2026-07-26,Social Media,India,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,10,5,Positive,Pending
+CMP-0110,2026-07-18,Email,India,Premium Plan,Service Experience,Issue was transferred multiple times,Medium,18,5,Positive,Resolved
+CMP-0111,2026-07-22,Web Form,Singapore,Mobile App,Delivery,Delivery address issue,High,50,3,Neutral,Resolved
+CMP-0112,2026-07-21,Web Form,India,Mobile App,Subscription,Plan upgrade issue,Low,19,4,Positive,Resolved
+CMP-0113,2026-07-04,Web Form,India,Standard Plan,Billing & Payments,Charged twice for the same order,Medium,11,5,Positive,Resolved
+CMP-0114,2026-07-21,Chat,USA,Standard Plan,Login & Account,Two-factor authentication issue,Medium,10,4,Positive,Resolved
+CMP-0115,2026-07-31,Phone,India,Standard Plan,Service Experience,Support response was slow,Medium,16,5,Positive,Pending
+CMP-0116,2026-07-31,Email,India,Mobile App,Returns & Refunds,Return pickup delayed,Low,31,5,Positive,Resolved
+CMP-0117,2026-07-26,Email,India,Web Store,Returns & Refunds,Return request not processed,Medium,42,4,Positive,Resolved
+CMP-0118,2026-07-26,Web Form,India,Web Store,Delivery,Package not delivered,High,49,4,Positive,Resolved
+CMP-0119,2026-07-22,Chat,USA,Mobile App,Service Experience,Agent was not helpful,Medium,6,5,Positive,Resolved
+CMP-0120,2026-07-24,Email,India,Web Store,Delivery,Wrong delivery status,Medium,21,5,Positive,Resolved
+CMP-0121,2026-07-08,Chat,India,Marketplace,Technical Issue,Checkout button not working,Low,13,5,Positive,Resolved
+CMP-0122,2026-07-14,Email,Japan,Standard Plan,Delivery,Order delivered late,Medium,32,5,Positive,Resolved
+CMP-0123,2026-07-09,Chat,India,Web Store,Billing & Payments,Charged twice for the same order,Low,8,5,Positive,Resolved
+CMP-0124,2026-07-26,Chat,UK,Mobile App,Returns & Refunds,Return pickup delayed,Low,35,4,Positive,Resolved
+CMP-0125,2026-07-11,Chat,USA,Standard Plan,Login & Account,Account locked after login attempts,High,16,5,Positive,Resolved
+CMP-0126,2026-07-22,Chat,India,Web Store,Billing & Payments,Payment failed but money was deducted,High,7,5,Positive,Resolved
+CMP-0127,2026-07-31,Web Form,Japan,Marketplace,Technical Issue,Checkout button not working,High,31,5,Positive,Resolved
+CMP-0128,2026-07-28,Web Form,Singapore,Standard Plan,Billing & Payments,Unexpected charge on account,Low,6,5,Positive,Resolved
+CMP-0129,2026-07-12,Email,Japan,Mobile App,Returns & Refunds,Refund status unclear,High,60,3,Neutral,Resolved
+CMP-0130,2026-07-20,Web Form,USA,Marketplace,Delivery,Package not delivered,Low,32,5,Positive,Resolved
+CMP-0131,2026-07-30,Email,India,Premium Plan,Returns & Refunds,Return pickup delayed,Medium,28,4,Positive,Resolved
+CMP-0132,2026-07-03,Email,USA,Mobile App,Returns & Refunds,Exchange request pending,Medium,1,4,Positive,Resolved
+CMP-0133,2026-07-20,Chat,India,Marketplace,Delivery,Wrong delivery status,Medium,25,4,Positive,Resolved
+CMP-0134,2026-07-20,Email,UK,Standard Plan,Returns & Refunds,Return request not processed,High,65,3,Neutral,Resolved
+CMP-0135,2026-07-16,Chat,India,Marketplace,Login & Account,Unable to reset password,Medium,8,5,Positive,Resolved
+CMP-0136,2026-07-25,Email,India,Web Store,Service Experience,Support response was slow,High,33,3,Neutral,Resolved
+CMP-0137,2026-07-13,Chat,Japan,Web Store,Delivery,Order delivered late,High,39,4,Positive,Resolved
+CMP-0138,2026-07-14,Email,USA,Mobile App,Returns & Refunds,Return pickup delayed,Low,27,5,Positive,Resolved
+CMP-0139,2026-07-13,Phone,India,Mobile App,Returns & Refunds,Exchange request pending,Medium,44,4,Positive,Pending
+CMP-0140,2026-07-14,Email,USA,Web Store,Product Quality,Missing component in package,Medium,36,4,Positive,Resolved
+CMP-0141,2026-07-17,Email,USA,Mobile App,Delivery,Wrong delivery status,Medium,29,5,Positive,Resolved
+CMP-0142,2026-07-08,Phone,USA,Web Store,Login & Account,Cannot update profile details,High,15,4,Positive,Resolved
+CMP-0143,2026-07-31,Phone,UK,Web Store,Billing & Payments,Refund not received,High,24,3,Neutral,Resolved
+CMP-0144,2026-07-11,Phone,USA,Marketplace,Returns & Refunds,Exchange request pending,Medium,39,5,Positive,Resolved
+CMP-0145,2026-07-17,Web Form,UK,Premium Plan,Technical Issue,Checkout button not working,Medium,19,4,Positive,Resolved
+CMP-0146,2026-07-19,Phone,Japan,Standard Plan,Delivery,Order delivered late,Low,25,4,Positive,Resolved
+CMP-0147,2026-07-31,Chat,Japan,Web Store,Subscription,Subscription renewed unexpectedly,Medium,12,5,Positive,Resolved
+CMP-0148,2026-07-23,Chat,India,Web Store,Delivery,Order delivered late,Medium,31,4,Positive,Resolved
+CMP-0149,2026-07-02,Chat,USA,Marketplace,Delivery,Wrong delivery status,High,36,4,Positive,Resolved
+CMP-0150,2026-07-28,Chat,USA,Marketplace,Delivery,Delivery address issue,Medium,35,5,Positive,Resolved
+CMP-0151,2026-07-05,Social Media,USA,Standard Plan,Subscription,Plan upgrade issue,Low,11,4,Positive,Resolved
+CMP-0152,2026-07-03,Web Form,UK,Marketplace,Technical Issue,Checkout button not working,Medium,22,5,Positive,Resolved
+CMP-0153,2026-07-08,Chat,USA,Web Store,Billing & Payments,Refund not received,High,13,5,Positive,Resolved
+CMP-0154,2026-07-05,Phone,USA,Marketplace,Billing & Payments,Charged twice for the same order,High,20,4,Positive,Resolved
+CMP-0155,2026-07-22,Phone,India,Premium Plan,Billing & Payments,Refund not received,Low,16,5,Positive,Resolved
+CMP-0156,2026-07-29,Chat,India,Standard Plan,Product Quality,Product quality below expectation,Low,33,5,Positive,Resolved
+CMP-0157,2026-07-31,Phone,Japan,Standard Plan,Technical Issue,Checkout button not working,High,23,5,Positive,Resolved
+CMP-0158,2026-07-18,Email,Japan,Premium Plan,Returns & Refunds,Return pickup delayed,High,61,4,Positive,Resolved
+CMP-0159,2026-07-29,Email,India,Standard Plan,Product Quality,Missing component in package,Low,44,4,Positive,Resolved
+CMP-0160,2026-07-02,Web Form,Singapore,Standard Plan,Subscription,Subscription benefit missing,Medium,17,5,Positive,Resolved
+CMP-0161,2026-07-26,Email,Singapore,Premium Plan,Billing & Payments,Refund not received,High,14,5,Positive,Resolved
+CMP-0162,2026-07-01,Phone,Japan,Marketplace,Technical Issue,Website page not loading,High,12,5,Positive,Resolved
+CMP-0163,2026-07-04,Email,India,Premium Plan,Returns & Refunds,Exchange request pending,Medium,27,4,Positive,Resolved
+CMP-0164,2026-07-01,Web Form,Japan,Marketplace,Technical Issue,Mobile app crashes,High,25,5,Positive,Resolved
+CMP-0165,2026-07-19,Chat,UK,Web Store,Login & Account,Cannot update profile details,Low,12,5,Positive,Resolved
+CMP-0166,2026-07-18,Social Media,Japan,Marketplace,Service Experience,Support response was slow,Low,21,4,Positive,Resolved
+CMP-0167,2026-07-12,Email,India,Mobile App,Technical Issue,Checkout button not working,Medium,18,4,Positive,Resolved
+CMP-0168,2026-07-27,Email,Japan,Web Store,Login & Account,Account locked after login attempts,High,13,5,Positive,Pending
+CMP-0169,2026-07-02,Email,USA,Standard Plan,Returns & Refunds,Refund status unclear,Medium,29,4,Positive,Resolved
+CMP-0170,2026-07-16,Chat,Singapore,Marketplace,Billing & Payments,Unexpected charge on account,Medium,16,4,Positive,Resolved
+CMP-0171,2026-07-29,Email,USA,Standard Plan,Product Quality,Missing component in package,Medium,25,5,Positive,Pending
+CMP-0172,2026-07-09,Phone,India,Marketplace,Service Experience,Customer wants escalation,Medium,23,4,Positive,Resolved
+CMP-0173,2026-07-11,Chat,India,Mobile App,Service Experience,Agent was not helpful,Medium,18,5,Positive,Resolved
+CMP-0174,2026-07-20,Chat,India,Premium Plan,Technical Issue,Error while placing order,Low,8,4,Positive,Resolved
+CMP-0175,2026-07-31,Chat,USA,Web Store,Login & Account,Two-factor authentication issue,Low,7,5,Positive,Resolved
+CMP-0176,2026-07-12,Email,USA,Premium Plan,Technical Issue,Website page not loading,High,19,5,Positive,Resolved
+CMP-0177,2026-07-05,Chat,USA,Marketplace,Technical Issue,Checkout button not working,High,23,4,Positive,Resolved
+CMP-0178,2026-07-16,Social Media,India,Web Store,Returns & Refunds,Refund status unclear,Low,41,4,Positive,Resolved
+CMP-0179,2026-07-07,Email,UK,Standard Plan,Login & Account,Two-factor authentication issue,Low,9,5,Positive,Resolved
+CMP-0180,2026-07-22,Social Media,USA,Premium Plan,Subscription,Subscription benefit missing,Medium,17,4,Positive,Resolved
+CMP-0181,2026-07-26,Phone,Singapore,Web Store,Subscription,Subscription renewed unexpectedly,Medium,18,5,Positive,Escalated
+CMP-0182,2026-07-15,Email,Japan,Premium Plan,Delivery,Delivery address issue,Low,26,5,Positive,Resolved
+CMP-0183,2026-07-03,Chat,USA,Marketplace,Delivery,Delivery address issue,Low,34,4,Positive,Resolved
+CMP-0184,2026-07-21,Email,USA,Marketplace,Login & Account,Cannot update profile details,Low,10,5,Positive,Resolved
+CMP-0185,2026-07-06,Web Form,Japan,Premium Plan,Technical Issue,Mobile app crashes,Medium,18,4,Positive,Pending
+CMP-0186,2026-07-05,Email,Singapore,Premium Plan,Product Quality,Missing component in package,Low,36,5,Positive,Resolved
+CMP-0187,2026-07-11,Email,UK,Marketplace,Returns & Refunds,Refund status unclear,High,63,4,Positive,Resolved
+CMP-0188,2026-07-21,Web Form,USA,Premium Plan,Billing & Payments,Charged twice for the same order,High,24,4,Positive,Resolved
+CMP-0189,2026-07-21,Chat,UK,Premium Plan,Returns & Refunds,Return request not processed,High,54,4,Positive,Resolved
+CMP-0190,2026-07-06,Chat,India,Mobile App,Product Quality,Wrong product received,High,63,3,Neutral,Resolved
+CMP-0191,2026-07-13,Chat,USA,Premium Plan,Delivery,Package not delivered,Medium,19,4,Positive,Resolved
+CMP-0192,2026-07-04,Email,Japan,Web Store,Delivery,Delivery address issue,Low,7,5,Positive,Resolved
+CMP-0193,2026-07-07,Web Form,Singapore,Premium Plan,Technical Issue,Website page not loading,Medium,13,5,Positive,Resolved
+CMP-0194,2026-07-07,Web Form,Japan,Web Store,Technical Issue,Mobile app crashes,High,20,5,Positive,Resolved
+CMP-0195,2026-07-14,Chat,India,Mobile App,Returns & Refunds,Exchange request pending,High,55,4,Positive,Resolved
+CMP-0196,2026-07-18,Chat,India,Marketplace,Delivery,Delivery address issue,Low,19,5,Positive,Resolved
+CMP-0197,2026-07-04,Web Form,UK,Marketplace,Technical Issue,Checkout button not working,Low,9,5,Positive,Resolved
+CMP-0198,2026-07-02,Email,Japan,Marketplace,Subscription,Subscription renewed unexpectedly,High,22,4,Positive,Resolved
+CMP-0199,2026-07-05,Chat,India,Marketplace,Delivery,Delivery address issue,Low,11,5,Positive,Resolved
+CMP-0200,2026-07-18,Chat,Japan,Marketplace,Service Experience,Issue was transferred multiple times,Low,21,5,Positive,Resolved
+CMP-0201,2026-07-10,Phone,Singapore,Marketplace,Billing & Payments,Unexpected charge on account,Medium,6,5,Positive,Resolved
+CMP-0202,2026-07-17,Phone,UK,Web Store,Service Experience,Agent was not helpful,Low,22,5,Positive,Resolved
+CMP-0203,2026-07-07,Email,Singapore,Mobile App,Billing & Payments,Refund not received,High,11,5,Positive,Resolved
+CMP-0204,2026-07-28,Chat,UK,Standard Plan,Login & Account,Two-factor authentication issue,Medium,6,5,Positive,Resolved
+CMP-0205,2026-07-11,Social Media,Japan,Standard Plan,Delivery,Wrong delivery status,Low,29,5,Positive,Resolved
+CMP-0206,2026-07-09,Phone,India,Web Store,Delivery,Wrong delivery status,Medium,34,4,Positive,Pending
+CMP-0207,2026-07-12,Phone,Japan,Standard Plan,Login & Account,Account locked after login attempts,Low,4,5,Positive,Resolved
+CMP-0208,2026-07-31,Web Form,India,Premium Plan,Delivery,Delivery address issue,Medium,31,4,Positive,Escalated
+CMP-0209,2026-07-07,Phone,USA,Web Store,Delivery,Delivery address issue,High,43,4,Positive,Pending
+CMP-0210,2026-07-08,Email,UK,Marketplace,Billing & Payments,Refund not received,High,19,5,Positive,Resolved
+CMP-0211,2026-07-31,Email,USA,Mobile App,Technical Issue,Error while placing order,High,30,5,Positive,Resolved
+CMP-0212,2026-07-11,Chat,India,Premium Plan,Returns & Refunds,Exchange request pending,Medium,38,5,Positive,Resolved
+CMP-0213,2026-07-30,Chat,USA,Mobile App,Returns & Refunds,Refund status unclear,Low,51,5,Positive,Resolved
+CMP-0214,2026-07-29,Web Form,India,Premium Plan,Subscription,Subscription benefit missing,Medium,10,5,Positive,Resolved
+CMP-0215,2026-07-17,Chat,Singapore,Marketplace,Subscription,Plan upgrade issue,High,21,4,Positive,Pending
+CMP-0216,2026-07-23,Chat,USA,Premium Plan,Delivery,Order delivered late,Low,16,4,Positive,Resolved
+CMP-0217,2026-07-27,Email,USA,Standard Plan,Returns & Refunds,Refund status unclear,Medium,38,5,Positive,Resolved
+CMP-0218,2026-07-09,Chat,Singapore,Mobile App,Billing & Payments,Refund not received,High,21,5,Positive,Resolved
+CMP-0219,2026-07-09,Chat,USA,Mobile App,Delivery,Wrong delivery status,High,43,3,Neutral,Resolved
+CMP-0220,2026-07-30,Chat,India,Marketplace,Billing & Payments,Charged twice for the same order,High,5,5,Positive,Resolved
+CMP-0221,2026-07-16,Chat,India,Web Store,Subscription,Plan upgrade issue,Low,18,5,Positive,Resolved
+CMP-0222,2026-07-25,Phone,USA,Web Store,Technical Issue,Error while placing order,Low,4,5,Positive,Resolved
+CMP-0223,2026-07-27,Email,Japan,Mobile App,Technical Issue,Checkout button not working,Low,9,5,Positive,Resolved
+CMP-0224,2026-07-16,Email,India,Marketplace,Delivery,Delivery address issue,Medium,31,4,Positive,Resolved
+CMP-0225,2026-07-22,Chat,India,Standard Plan,Technical Issue,Error while placing order,High,14,4,Positive,Resolved
+CMP-0226,2026-07-23,Chat,India,Premium Plan,Billing & Payments,Refund not received,Low,13,5,Positive,Resolved
+CMP-0227,2026-07-25,Chat,India,Web Store,Subscription,Unable to cancel subscription,Low,10,5,Positive,Resolved
+CMP-0228,2026-07-13,Chat,Singapore,Standard Plan,Service Experience,Customer wants escalation,Low,17,4,Positive,Resolved
+CMP-0229,2026-07-17,Email,Singapore,Standard Plan,Billing & Payments,Unexpected charge on account,Low,13,4,Positive,Resolved
+CMP-0230,2026-07-13,Phone,Japan,Marketplace,Service Experience,Customer wants escalation,Medium,17,4,Positive,Resolved
+CMP-0231,2026-07-25,Email,UK,Marketplace,Billing & Payments,Charged twice for the same order,High,23,4,Positive,Resolved
+CMP-0232,2026-07-08,Chat,UK,Mobile App,Billing & Payments,Charged twice for the same order,Medium,10,5,Positive,Resolved
+CMP-0233,2026-07-27,Email,Singapore,Web Store,Product Quality,Product arrived damaged,Medium,34,4,Positive,Resolved
+CMP-0234,2026-07-08,Email,USA,Marketplace,Login & Account,Cannot update profile details,Medium,12,5,Positive,Resolved
+CMP-0235,2026-07-02,Phone,Japan,Standard Plan,Returns & Refunds,Refund status unclear,Low,34,4,Positive,Resolved
+CMP-0236,2026-07-25,Chat,India,Web Store,Delivery,Delivery address issue,Medium,25,3,Neutral,Resolved
+CMP-0237,2026-07-14,Web Form,Singapore,Marketplace,Product Quality,Product quality below expectation,Medium,16,5,Positive,Resolved
+CMP-0238,2026-07-03,Phone,Singapore,Premium Plan,Delivery,Wrong delivery status,High,44,4,Positive,Resolved
+CMP-0239,2026-07-07,Phone,UK,Mobile App,Billing & Payments,Payment failed but money was deducted,Medium,16,5,Positive,Resolved
+CMP-0240,2026-07-31,Social Media,India,Web Store,Subscription,Plan upgrade issue,High,33,5,Positive,Resolved
+CMP-0241,2026-07-30,Phone,USA,Standard Plan,Login & Account,Account locked after login attempts,Medium,9,4,Positive,Resolved
+CMP-0242,2026-07-15,Chat,India,Standard Plan,Technical Issue,Checkout button not working,Medium,7,5,Positive,Resolved
+CMP-0243,2026-07-24,Chat,India,Web Store,Subscription,Plan upgrade issue,Medium,11,4,Positive,Pending
+CMP-0244,2026-07-16,Chat,India,Web Store,Delivery,Package not delivered,Low,21,4,Positive,Resolved
+CMP-0245,2026-07-15,Social Media,UK,Standard Plan,Login & Account,Two-factor authentication issue,High,15,5,Positive,Resolved
+CMP-0246,2026-07-17,Email,USA,Mobile App,Billing & Payments,Payment failed but money was deducted,Low,13,5,Positive,Resolved
+CMP-0247,2026-07-23,Email,UK,Mobile App,Login & Account,Two-factor authentication issue,Medium,10,4,Positive,Resolved
+CMP-0248,2026-07-18,Phone,India,Marketplace,Billing & Payments,Payment failed but money was deducted,High,21,5,Positive,Resolved
+CMP-0249,2026-07-26,Email,USA,Standard Plan,Login & Account,Cannot update profile details,Low,6,5,Positive,Resolved
+CMP-0250,2026-07-03,Web Form,India,Standard Plan,Delivery,Wrong delivery status,Medium,19,4,Positive,Resolved
+CMP-0251,2026-07-03,Phone,USA,Mobile App,Login & Account,Cannot update profile details,High,13,5,Positive,Resolved
+CMP-0252,2026-07-21,Phone,India,Standard Plan,Technical Issue,Mobile app crashes,Low,9,5,Positive,Resolved
+CMP-0253,2026-07-16,Email,USA,Marketplace,Subscription,Subscription renewed unexpectedly,Low,12,5,Positive,Resolved
+CMP-0254,2026-07-31,Email,USA,Mobile App,Delivery,Order delivered late,Medium,22,4,Positive,Resolved
+CMP-0255,2026-07-27,Chat,Japan,Marketplace,Product Quality,Product arrived damaged,Low,36,4,Positive,Resolved
+CMP-0256,2026-07-17,Web Form,UK,Mobile App,Login & Account,Account locked after login attempts,Medium,10,5,Positive,Resolved
+CMP-0257,2026-07-13,Phone,UK,Marketplace,Product Quality,Missing component in package,Low,32,4,Positive,Resolved
+CMP-0258,2026-07-06,Chat,Singapore,Standard Plan,Technical Issue,Website page not loading,Medium,14,5,Positive,Resolved
+CMP-0259,2026-07-24,Email,India,Web Store,Product Quality,Product arrived damaged,Medium,42,4,Positive,Resolved
+CMP-0260,2026-07-03,Chat,India,Web Store,Subscription,Subscription benefit missing,Medium,16,5,Positive,Resolved
+CMP-0261,2026-07-20,Email,Japan,Marketplace,Technical Issue,Mobile app crashes,Medium,7,5,Positive,Resolved
+CMP-0262,2026-07-06,Chat,India,Standard Plan,Billing & Payments,Refund not received,High,10,5,Positive,Resolved
+CMP-0263,2026-07-12,Email,India,Mobile App,Billing & Payments,Payment failed but money was deducted,Medium,10,4,Positive,Resolved
+CMP-0264,2026-07-27,Chat,Singapore,Premium Plan,Technical Issue,Website page not loading,Medium,7,5,Positive,Resolved
+CMP-0265,2026-07-16,Chat,UK,Web Store,Product Quality,Product quality below expectation,Low,39,4,Positive,Pending
+CMP-0266,2026-07-13,Social Media,USA,Premium Plan,Login & Account,Two-factor authentication issue,Low,12,4,Positive,Resolved
+CMP-0267,2026-07-01,Chat,Japan,Marketplace,Subscription,Subscription renewed unexpectedly,Low,15,4,Positive,Resolved
+CMP-0268,2026-07-22,Web Form,USA,Standard Plan,Product Quality,Product arrived damaged,Low,27,5,Positive,Resolved
+CMP-0269,2026-07-16,Web Form,India,Marketplace,Returns & Refunds,Exchange request pending,Medium,29,4,Positive,Pending
+CMP-0270,2026-07-21,Phone,USA,Marketplace,Returns & Refunds,Return pickup delayed,High,56,4,Positive,Resolved
+CMP-0271,2026-07-21,Email,UK,Marketplace,Returns & Refunds,Return pickup delayed,High,54,3,Neutral,Resolved
+CMP-0272,2026-07-17,Email,India,Web Store,Login & Account,Two-factor authentication issue,Low,11,5,Positive,Resolved
+CMP-0273,2026-07-23,Chat,USA,Marketplace,Delivery,Wrong delivery status,Medium,3,5,Positive,Resolved
+CMP-0274,2026-07-12,Web Form,India,Web Store,Billing & Payments,Payment failed but money was deducted,Medium,16,5,Positive,Resolved
+CMP-0275,2026-07-10,Phone,Japan,Mobile App,Technical Issue,Error while placing order,Medium,20,4,Positive,Resolved
+CMP-0276,2026-07-06,Web Form,USA,Marketplace,Billing & Payments,Refund not received,High,14,5,Positive,Resolved
+CMP-0277,2026-07-13,Phone,India,Standard Plan,Technical Issue,Error while placing order,High,25,5,Positive,Resolved
+CMP-0278,2026-07-09,Chat,USA,Web Store,Delivery,Delivery address issue,Low,31,4,Positive,Resolved
+CMP-0279,2026-07-09,Chat,India,Mobile App,Product Quality,Product quality below expectation,Medium,29,4,Positive,Pending
+CMP-0280,2026-07-20,Chat,India,Standard Plan,Returns & Refunds,Exchange request pending,Low,47,4,Positive,Resolved
+CMP-0281,2026-07-10,Phone,India,Web Store,Subscription,Unable to cancel subscription,Medium,17,5,Positive,Resolved
+CMP-0282,2026-07-21,Chat,Japan,Standard Plan,Technical Issue,Website page not loading,High,23,4,Positive,Resolved
+CMP-0283,2026-07-06,Chat,Japan,Web Store,Subscription,Subscription renewed unexpectedly,High,22,4,Positive,Resolved
+CMP-0284,2026-07-27,Social Media,Japan,Web Store,Billing & Payments,Unexpected charge on account,Medium,4,4,Positive,Resolved
+CMP-0285,2026-07-26,Chat,India,Mobile App,Technical Issue,Error while placing order,High,6,5,Positive,Resolved
+CMP-0286,2026-07-18,Chat,USA,Standard Plan,Delivery,Delivery address issue,Low,28,5,Positive,Resolved
+CMP-0287,2026-07-18,Chat,USA,Standard Plan,Returns & Refunds,Return pickup delayed,Medium,46,4,Positive,Resolved
+CMP-0288,2026-07-12,Web Form,India,Premium Plan,Login & Account,Cannot update profile details,Low,12,4,Positive,Resolved
+CMP-0289,2026-07-28,Web Form,UK,Premium Plan,Product Quality,Product quality below expectation,Low,38,5,Positive,Resolved
+CMP-0290,2026-07-12,Web Form,USA,Marketplace,Billing & Payments,Refund not received,Medium,6,5,Positive,Pending
+CMP-0291,2026-07-05,Social Media,Japan,Mobile App,Delivery,Wrong delivery status,Medium,31,4,Positive,Resolved
+CMP-0292,2026-07-25,Email,USA,Web Store,Returns & Refunds,Refund status unclear,Medium,51,5,Positive,Resolved
+CMP-0293,2026-07-13,Chat,India,Mobile App,Delivery,Delivery address issue,Medium,29,5,Positive,Pending
+CMP-0294,2026-07-24,Chat,India,Mobile App,Technical Issue,Error while placing order,Medium,15,4,Positive,Resolved
+CMP-0295,2026-07-09,Social Media,USA,Standard Plan,Returns & Refunds,Refund status unclear,High,54,3,Neutral,Resolved
+CMP-0296,2026-07-29,Chat,Japan,Premium Plan,Returns & Refunds,Refund status unclear,Medium,43,4,Positive,Resolved
+CMP-0297,2026-07-15,Email,Singapore,Web Store,Product Quality,Wrong product received,Low,42,4,Positive,Resolved
+CMP-0298,2026-07-03,Web Form,India,Premium Plan,Service Experience,Agent was not helpful,High,29,4,Positive,Resolved
+CMP-0299,2026-07-14,Email,UK,Web Store,Technical Issue,Website page not loading,Medium,16,4,Positive,Resolved
+CMP-0300,2026-07-23,Chat,Japan,Mobile App,Billing & Payments,Refund not received,High,11,5,Positive,Resolved
+CMP-0301,2026-07-04,Email,India,Mobile App,Login & Account,Two-factor authentication issue,Low,12,4,Positive,Resolved
+CMP-0302,2026-07-17,Phone,UK,Mobile App,Login & Account,Account locked after login attempts,High,13,5,Positive,Resolved
+CMP-0303,2026-07-30,Phone,UK,Web Store,Billing & Payments,Unexpected charge on account,Low,16,5,Positive,Resolved
+CMP-0304,2026-07-11,Chat,India,Standard Plan,Billing & Payments,Charged twice for the same order,High,10,4,Positive,Resolved
+CMP-0305,2026-07-07,Phone,USA,Premium Plan,Returns & Refunds,Return pickup delayed,Medium,15,5,Positive,Resolved
+CMP-0306,2026-07-16,Web Form,USA,Web Store,Delivery,Order delivered late,Medium,34,4,Positive,Resolved
+CMP-0307,2026-07-13,Social Media,Singapore,Web Store,Billing & Payments,Charged twice for the same order,Low,15,4,Positive,Resolved
+CMP-0308,2026-07-07,Email,India,Premium Plan,Service Experience,Support response was slow,High,40,4,Positive,Resolved
+CMP-0309,2026-07-14,Phone,Japan,Standard Plan,Product Quality,Missing component in package,Medium,37,5,Positive,Resolved
+CMP-0310,2026-07-26,Email,India,Web Store,Returns & Refunds,Return pickup delayed,Medium,49,4,Positive,Resolved
+CMP-0311,2026-07-02,Chat,Japan,Web Store,Login & Account,Unable to reset password,Low,7,5,Positive,Resolved
+CMP-0312,2026-07-04,Chat,USA,Web Store,Returns & Refunds,Return request not processed,High,69,4,Positive,Resolved
+CMP-0313,2026-07-06,Social Media,Japan,Premium Plan,Billing & Payments,Payment failed but money was deducted,High,21,4,Positive,Resolved
+CMP-0314,2026-07-09,Phone,India,Standard Plan,Product Quality,Product arrived damaged,Medium,23,5,Positive,Escalated
+CMP-0315,2026-07-12,Email,USA,Web Store,Technical Issue,Checkout button not working,Low,18,5,Positive,Resolved
+CMP-0316,2026-07-02,Email,USA,Web Store,Billing & Payments,Charged twice for the same order,Medium,5,5,Positive,Escalated
+CMP-0317,2026-07-09,Email,India,Premium Plan,Returns & Refunds,Exchange request pending,Medium,39,4,Positive,Resolved
+CMP-0318,2026-07-31,Email,Japan,Mobile App,Subscription,Subscription renewed unexpectedly,Low,10,4,Positive,Resolved
+CMP-0319,2026-07-12,Chat,Japan,Mobile App,Login & Account,Cannot update profile details,Low,12,5,Positive,Resolved
+CMP-0320,2026-07-24,Chat,Singapore,Web Store,Returns & Refunds,Exchange request pending,Low,23,4,Positive,Resolved
+CMP-0321,2026-07-31,Email,India,Mobile App,Subscription,Unable to cancel subscription,Low,14,5,Positive,Resolved
+CMP-0322,2026-07-14,Email,Japan,Web Store,Login & Account,Cannot update profile details,Low,9,4,Positive,Resolved
+CMP-0323,2026-07-14,Web Form,USA,Marketplace,Delivery,Order delivered late,Medium,25,4,Positive,Escalated
+CMP-0324,2026-07-19,Phone,India,Marketplace,Returns & Refunds,Refund status unclear,Low,2,5,Positive,Resolved
+CMP-0325,2026-07-11,Web Form,India,Premium Plan,Delivery,Wrong delivery status,Medium,25,5,Positive,Escalated
+CMP-0326,2026-07-11,Email,India,Standard Plan,Login & Account,Unable to reset password,High,16,5,Positive,Resolved
+CMP-0327,2026-07-03,Chat,Japan,Mobile App,Service Experience,Agent was not helpful,Low,19,4,Positive,Resolved
+CMP-0328,2026-07-03,Email,USA,Web Store,Login & Account,Unable to reset password,High,19,5,Positive,Pending
+CMP-0329,2026-07-31,Email,Singapore,Mobile App,Technical Issue,Checkout button not working,Low,18,5,Positive,Resolved
+CMP-0330,2026-07-05,Email,India,Web Store,Technical Issue,Website page not loading,Low,19,5,Positive,Escalated
+CMP-0331,2026-07-07,Web Form,India,Mobile App,Returns & Refunds,Return pickup delayed,Low,33,4,Positive,Resolved
+CMP-0332,2026-07-06,Email,Singapore,Mobile App,Product Quality,Missing component in package,Low,35,4,Positive,Resolved
+CMP-0333,2026-07-09,Email,India,Web Store,Billing & Payments,Payment failed but money was deducted,Medium,10,5,Positive,Resolved
+CMP-0334,2026-07-02,Chat,USA,Standard Plan,Delivery,Wrong delivery status,Medium,25,5,Positive,Resolved
+CMP-0335,2026-07-13,Phone,USA,Mobile App,Returns & Refunds,Refund status unclear,Medium,3,5,Positive,Resolved
+CMP-0336,2026-07-20,Chat,India,Premium Plan,Delivery,Wrong delivery status,High,40,3,Neutral,Resolved
+CMP-0337,2026-07-25,Web Form,Japan,Premium Plan,Login & Account,Unable to reset password,Low,8,5,Positive,Resolved
+CMP-0338,2026-07-25,Chat,USA,Mobile App,Returns & Refunds,Return pickup delayed,Low,21,4,Positive,Resolved
+CMP-0339,2026-07-30,Email,UK,Premium Plan,Delivery,Package not delivered,Low,17,5,Positive,Resolved
+CMP-0340,2026-07-18,Chat,India,Standard Plan,Returns & Refunds,Refund status unclear,High,55,5,Positive,Resolved
+CMP-0341,2026-07-01,Phone,India,Standard Plan,Billing & Payments,Refund not received,Low,17,4,Positive,Resolved
+CMP-0342,2026-07-25,Email,India,Web Store,Billing & Payments,Unexpected charge on account,Medium,11,5,Positive,Resolved
+CMP-0343,2026-07-05,Chat,India,Premium Plan,Login & Account,Two-factor authentication issue,Low,5,5,Positive,Resolved
+CMP-0344,2026-07-26,Email,Singapore,Marketplace,Service Experience,Issue was transferred multiple times,Low,20,4,Positive,Resolved
+CMP-0345,2026-07-13,Email,USA,Marketplace,Technical Issue,Checkout button not working,High,22,5,Positive,Resolved
+CMP-0346,2026-07-05,Phone,India,Standard Plan,Product Quality,Product quality below expectation,Medium,31,5,Positive,Resolved
+CMP-0347,2026-07-15,Web Form,UK,Premium Plan,Delivery,Order delivered late,Medium,17,5,Positive,Resolved
+CMP-0348,2026-07-24,Phone,India,Standard Plan,Delivery,Order delivered late,Low,33,4,Positive,Resolved
+CMP-0349,2026-07-21,Email,Japan,Marketplace,Technical Issue,Error while placing order,High,20,4,Positive,Resolved
+CMP-0350,2026-07-03,Email,India,Mobile App,Product Quality,Missing component in package,High,47,4,Positive,Resolved
+CMP-0351,2026-07-11,Chat,USA,Mobile App,Billing & Payments,Charged twice for the same order,Low,11,5,Positive,Resolved
+CMP-0352,2026-07-07,Email,India,Web Store,Returns & Refunds,Exchange request pending,Low,31,4,Positive,Pending
+CMP-0353,2026-07-18,Email,India,Marketplace,Returns & Refunds,Return pickup delayed,Medium,19,5,Positive,Resolved
+CMP-0354,2026-07-21,Email,India,Web Store,Billing & Payments,Payment failed but money was deducted,Medium,7,5,Positive,Resolved
+CMP-0355,2026-07-12,Email,Japan,Web Store,Technical Issue,Checkout button not working,High,4,5,Positive,Resolved
+CMP-0356,2026-07-05,Email,India,Mobile App,Technical Issue,Checkout button not working,High,19,4,Positive,Resolved
+CMP-0357,2026-07-02,Social Media,UK,Marketplace,Product Quality,Wrong product received,Medium,29,5,Positive,Pending
+CMP-0358,2026-07-17,Chat,India,Mobile App,Returns & Refunds,Refund status unclear,Medium,41,5,Positive,Resolved
+CMP-0359,2026-07-31,Email,USA,Web Store,Service Experience,Agent was not helpful,Low,22,5,Positive,Resolved
+CMP-0360,2026-07-27,Email,USA,Web Store,Technical Issue,Error while placing order,High,15,5,Positive,Resolved
+CMP-0361,2026-07-28,Chat,India,Premium Plan,Product Quality,Product arrived damaged,Medium,39,3,Neutral,Resolved
+CMP-0362,2026-07-19,Email,India,Marketplace,Product Quality,Wrong product received,Low,19,5,Positive,Resolved
+CMP-0363,2026-07-29,Web Form,USA,Premium Plan,Billing & Payments,Charged twice for the same order,Medium,14,5,Positive,Resolved
+CMP-0364,2026-07-02,Chat,UK,Standard Plan,Billing & Payments,Unexpected charge on account,Low,14,5,Positive,Resolved
+CMP-0365,2026-07-10,Web Form,India,Premium Plan,Technical Issue,Checkout button not working,Low,14,4,Positive,Resolved
+CMP-0366,2026-07-09,Chat,USA,Premium Plan,Product Quality,Product quality below expectation,Low,38,4,Positive,Resolved
+CMP-0367,2026-07-27,Phone,USA,Premium Plan,Technical Issue,Error while placing order,Medium,20,4,Positive,Resolved
+CMP-0368,2026-07-27,Email,USA,Web Store,Technical Issue,Mobile app crashes,High,24,5,Positive,Resolved
+CMP-0369,2026-07-17,Phone,India,Standard Plan,Billing & Payments,Unexpected charge on account,Low,15,5,Positive,Resolved
+CMP-0370,2026-07-18,Email,USA,Marketplace,Technical Issue,Error while placing order,High,28,5,Positive,Resolved
+CMP-0371,2026-07-28,Chat,India,Web Store,Subscription,Unable to cancel subscription,Low,5,4,Positive,Resolved
+CMP-0372,2026-07-28,Email,India,Mobile App,Returns & Refunds,Refund status unclear,Medium,32,4,Positive,Resolved
+CMP-0373,2026-07-23,Email,UK,Premium Plan,Billing & Payments,Charged twice for the same order,High,16,4,Positive,Resolved
+CMP-0374,2026-07-27,Email,Japan,Marketplace,Product Quality,Wrong product received,Low,38,4,Positive,Resolved
+CMP-0375,2026-07-10,Chat,UK,Premium Plan,Service Experience,Issue was transferred multiple times,Medium,17,4,Positive,Resolved
+CMP-0376,2026-07-07,Web Form,India,Premium Plan,Delivery,Wrong delivery status,Low,18,4,Positive,Resolved
+CMP-0377,2026-07-21,Phone,UK,Mobile App,Product Quality,Wrong product received,Medium,23,5,Positive,Resolved
+CMP-0378,2026-07-11,Chat,Singapore,Web Store,Technical Issue,Mobile app crashes,High,12,5,Positive,Resolved
+CMP-0379,2026-07-06,Chat,USA,Marketplace,Product Quality,Missing component in package,Medium,42,4,Positive,Resolved
+CMP-0380,2026-07-08,Web Form,USA,Mobile App,Login & Account,Account locked after login attempts,Low,6,5,Positive,Resolved
+CMP-0381,2026-07-28,Chat,UK,Standard Plan,Product Quality,Missing component in package,Medium,28,5,Positive,Resolved
+CMP-0382,2026-07-28,Chat,India,Mobile App,Returns & Refunds,Return request not processed,High,79,3,Neutral,Resolved
+CMP-0383,2026-07-19,Email,India,Standard Plan,Technical Issue,Website page not loading,High,25,4,Positive,Resolved
+CMP-0384,2026-07-11,Chat,UK,Web Store,Login & Account,Unable to reset password,Medium,9,5,Positive,Resolved
+CMP-0385,2026-07-05,Chat,India,Mobile App,Login & Account,Account locked after login attempts,Low,7,5,Positive,Resolved
+CMP-0386,2026-07-31,Email,Japan,Premium Plan,Service Experience,Customer wants escalation,Medium,27,4,Positive,Resolved
+CMP-0387,2026-07-10,Phone,India,Premium Plan,Delivery,Order delivered late,Medium,34,5,Positive,Resolved
+CMP-0388,2026-07-20,Chat,India,Marketplace,Billing & Payments,Charged twice for the same order,Low,17,4,Positive,Resolved
+CMP-0389,2026-07-01,Chat,India,Standard Plan,Service Experience,Customer wants escalation,Low,16,5,Positive,Resolved
+CMP-0390,2026-07-13,Email,USA,Mobile App,Login & Account,Account locked after login attempts,Low,9,5,Positive,Resolved
+CMP-0391,2026-07-02,Phone,UK,Mobile App,Returns & Refunds,Return request not processed,Medium,44,3,Neutral,Resolved
+CMP-0392,2026-07-10,Phone,India,Mobile App,Returns & Refunds,Exchange request pending,Medium,47,4,Positive,Resolved
+CMP-0393,2026-07-24,Chat,USA,Marketplace,Returns & Refunds,Refund status unclear,Medium,50,5,Positive,Resolved
+CMP-0394,2026-07-12,Phone,USA,Web Store,Technical Issue,Website page not loading,High,23,5,Positive,Resolved
+CMP-0395,2026-07-11,Web Form,UK,Standard Plan,Billing & Payments,Payment failed but money was deducted,High,13,4,Positive,Resolved
+CMP-0396,2026-07-03,Email,India,Marketplace,Billing & Payments,Payment failed but money was deducted,High,16,5,Positive,Resolved
+CMP-0397,2026-07-28,Email,India,Web Store,Delivery,Wrong delivery status,Medium,30,4,Positive,Resolved
+CMP-0398,2026-07-01,Email,USA,Mobile App,Delivery,Order delivered late,Low,17,5,Positive,Resolved
+CMP-0399,2026-07-06,Web Form,India,Premium Plan,Subscription,Plan upgrade issue,Medium,15,5,Positive,Resolved
+CMP-0400,2026-07-04,Web Form,UK,Web Store,Product Quality,Wrong product received,Low,36,4,Positive,Escalated
+CMP-0401,2026-07-20,Web Form,UK,Web Store,Billing & Payments,Payment failed but money was deducted,High,18,4,Positive,Resolved
+CMP-0402,2026-07-15,Chat,Japan,Standard Plan,Billing & Payments,Refund not received,High,14,4,Positive,Resolved
+CMP-0403,2026-07-17,Social Media,UK,Premium Plan,Login & Account,Account locked after login attempts,Low,8,5,Positive,Resolved
+CMP-0404,2026-07-05,Chat,UK,Standard Plan,Returns & Refunds,Refund status unclear,Low,45,4,Positive,Resolved
+CMP-0405,2026-07-28,Chat,Japan,Standard Plan,Returns & Refunds,Refund status unclear,High,60,3,Neutral,Resolved
+CMP-0406,2026-07-18,Social Media,India,Web Store,Delivery,Wrong delivery status,Medium,26,4,Positive,Resolved
+CMP-0407,2026-07-04,Email,Japan,Premium Plan,Technical Issue,Error while placing order,High,27,4,Positive,Resolved
+CMP-0408,2026-07-26,Email,Japan,Mobile App,Billing & Payments,Payment failed but money was deducted,High,19,4,Positive,Resolved
+CMP-0409,2026-07-12,Phone,Japan,Premium Plan,Subscription,Subscription renewed unexpectedly,Medium,17,5,Positive,Resolved
+CMP-0410,2026-07-04,Phone,India,Standard Plan,Returns & Refunds,Exchange request pending,Low,43,5,Positive,Resolved
+CMP-0411,2026-07-02,Chat,India,Mobile App,Delivery,Wrong delivery status,Medium,22,5,Positive,Resolved
+CMP-0412,2026-07-30,Email,India,Mobile App,Login & Account,Unable to reset password,High,18,4,Positive,Resolved
+CMP-0413,2026-07-04,Email,India,Marketplace,Product Quality,Missing component in package,Low,30,5,Positive,Escalated
+CMP-0414,2026-07-27,Chat,India,Standard Plan,Service Experience,Support response was slow,High,34,4,Positive,Escalated
+CMP-0415,2026-07-22,Phone,India,Standard Plan,Login & Account,Account locked after login attempts,Low,8,5,Positive,Resolved
+CMP-0416,2026-07-15,Email,Singapore,Premium Plan,Technical Issue,Website page not loading,Low,9,4,Positive,Resolved
+CMP-0417,2026-07-07,Phone,Singapore,Web Store,Delivery,Wrong delivery status,Low,18,4,Positive,Resolved
+CMP-0418,2026-07-17,Social Media,UK,Web Store,Subscription,Subscription renewed unexpectedly,Low,15,5,Positive,Resolved
+CMP-0419,2026-07-22,Chat,Singapore,Standard Plan,Login & Account,Two-factor authentication issue,High,15,4,Positive,Resolved
+CMP-0420,2026-07-13,Web Form,Japan,Mobile App,Delivery,Delivery address issue,High,37,4,Positive,Resolved
+CMP-0421,2026-07-27,Social Media,UK,Web Store,Delivery,Package not delivered,Low,27,5,Positive,Resolved
+CMP-0422,2026-07-28,Web Form,India,Marketplace,Returns & Refunds,Return pickup delayed,Low,25,5,Positive,Resolved
+CMP-0423,2026-07-13,Phone,India,Standard Plan,Technical Issue,Checkout button not working,Medium,19,5,Positive,Resolved
+CMP-0424,2026-07-27,Email,USA,Standard Plan,Billing & Payments,Unexpected charge on account,Low,15,5,Positive,Resolved
+CMP-0425,2026-07-15,Phone,Singapore,Premium Plan,Returns & Refunds,Refund status unclear,Medium,32,4,Positive,Escalated
+CMP-0426,2026-07-19,Email,India,Web Store,Technical Issue,Error while placing order,High,14,4,Positive,Resolved
+CMP-0427,2026-07-27,Web Form,UK,Marketplace,Billing & Payments,Refund not received,Low,10,5,Positive,Resolved
+CMP-0428,2026-07-03,Chat,Singapore,Marketplace,Product Quality,Missing component in package,High,53,4,Positive,Resolved
+CMP-0429,2026-07-11,Chat,USA,Premium Plan,Returns & Refunds,Return request not processed,Medium,29,5,Positive,Resolved
+CMP-0430,2026-07-29,Email,India,Web Store,Returns & Refunds,Return request not processed,Low,33,5,Positive,Resolved
+CMP-0431,2026-07-13,Chat,USA,Mobile App,Billing & Payments,Unexpected charge on account,Medium,14,4,Positive,Resolved
+CMP-0432,2026-07-11,Chat,India,Web Store,Login & Account,Two-factor authentication issue,High,15,5,Positive,Escalated
+CMP-0433,2026-07-28,Phone,India,Web Store,Service Experience,Support response was slow,Low,17,4,Positive,Resolved
+CMP-0434,2026-07-01,Phone,Singapore,Web Store,Product Quality,Wrong product received,Medium,39,4,Positive,Resolved
+CMP-0435,2026-07-30,Chat,UK,Web Store,Billing & Payments,Unexpected charge on account,Low,17,5,Positive,Resolved
+CMP-0436,2026-07-03,Chat,UK,Marketplace,Billing & Payments,Charged twice for the same order,High,13,4,Positive,Resolved
+CMP-0437,2026-07-03,Chat,UK,Marketplace,Delivery,Order delivered late,Low,14,4,Positive,Resolved
+CMP-0438,2026-07-24,Chat,Japan,Web Store,Product Quality,Product arrived damaged,Low,35,5,Positive,Resolved
+CMP-0439,2026-07-31,Chat,USA,Premium Plan,Service Experience,Agent was not helpful,Low,18,5,Positive,Resolved
+CMP-0440,2026-07-07,Chat,Singapore,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,13,5,Positive,Resolved
+CMP-0441,2026-07-07,Email,India,Premium Plan,Returns & Refunds,Refund status unclear,High,79,3,Neutral,Resolved
+CMP-0442,2026-07-15,Web Form,Singapore,Marketplace,Returns & Refunds,Return request not processed,Medium,34,5,Positive,Resolved
+CMP-0443,2026-07-12,Phone,Japan,Premium Plan,Delivery,Package not delivered,Low,34,5,Positive,Resolved
+CMP-0444,2026-07-22,Chat,Japan,Marketplace,Returns & Refunds,Refund status unclear,Low,50,4,Positive,Resolved
+CMP-0445,2026-07-08,Social Media,India,Premium Plan,Delivery,Wrong delivery status,Low,33,5,Positive,Resolved
+CMP-0446,2026-07-15,Phone,India,Standard Plan,Product Quality,Product quality below expectation,High,46,4,Positive,Resolved
+CMP-0447,2026-07-28,Email,UK,Premium Plan,Technical Issue,Mobile app crashes,High,24,5,Positive,Resolved
+CMP-0448,2026-07-21,Phone,USA,Marketplace,Delivery,Order delivered late,High,41,4,Positive,Resolved
+CMP-0449,2026-07-29,Web Form,Japan,Marketplace,Technical Issue,Website page not loading,Medium,16,5,Positive,Resolved
+CMP-0450,2026-07-13,Email,Japan,Mobile App,Subscription,Plan upgrade issue,High,22,4,Positive,Resolved
+CMP-0451,2026-07-06,Phone,India,Web Store,Delivery,Package not delivered,Low,31,4,Positive,Pending
+CMP-0452,2026-07-09,Email,Japan,Mobile App,Subscription,Unable to cancel subscription,Medium,16,5,Positive,Resolved
+CMP-0453,2026-07-02,Chat,Singapore,Mobile App,Subscription,Plan upgrade issue,Medium,17,5,Positive,Pending
+CMP-0454,2026-07-21,Chat,UK,Standard Plan,Product Quality,Missing component in package,Low,18,5,Positive,Resolved
+CMP-0455,2026-07-13,Chat,USA,Marketplace,Billing & Payments,Unexpected charge on account,Medium,17,5,Positive,Resolved
+CMP-0456,2026-07-21,Chat,India,Marketplace,Returns & Refunds,Refund status unclear,Medium,37,4,Positive,Resolved
+CMP-0457,2026-07-24,Phone,India,Premium Plan,Returns & Refunds,Return request not processed,Low,45,5,Positive,Resolved
+CMP-0458,2026-07-19,Email,India,Marketplace,Returns & Refunds,Exchange request pending,Low,40,4,Positive,Resolved
+CMP-0459,2026-07-31,Email,Singapore,Marketplace,Returns & Refunds,Return request not processed,Low,50,4,Positive,Resolved
+CMP-0460,2026-07-16,Web Form,India,Marketplace,Product Quality,Missing component in package,Medium,30,5,Positive,Resolved
+CMP-0461,2026-07-24,Phone,Japan,Web Store,Billing & Payments,Refund not received,High,19,4,Positive,Escalated
+CMP-0462,2026-07-28,Email,India,Marketplace,Delivery,Delivery address issue,Medium,29,4,Positive,Resolved
+CMP-0463,2026-07-17,Web Form,UK,Marketplace,Billing & Payments,Payment failed but money was deducted,High,19,4,Positive,Resolved
+CMP-0464,2026-07-17,Web Form,USA,Standard Plan,Billing & Payments,Charged twice for the same order,Low,11,5,Positive,Resolved
+CMP-0465,2026-07-26,Web Form,India,Marketplace,Subscription,Subscription benefit missing,High,24,4,Positive,Resolved
+CMP-0466,2026-07-30,Chat,India,Web Store,Login & Account,Unable to reset password,Low,8,5,Positive,Resolved
+CMP-0467,2026-07-17,Phone,USA,Marketplace,Delivery,Order delivered late,Medium,13,4,Positive,Resolved
+CMP-0468,2026-07-21,Chat,India,Standard Plan,Login & Account,Cannot update profile details,Medium,11,5,Positive,Resolved
+CMP-0469,2026-07-14,Social Media,India,Web Store,Returns & Refunds,Return pickup delayed,Low,26,5,Positive,Resolved
+CMP-0470,2026-07-25,Email,India,Premium Plan,Returns & Refunds,Exchange request pending,Low,45,4,Positive,Resolved
+CMP-0471,2026-07-04,Chat,USA,Web Store,Returns & Refunds,Refund status unclear,Medium,23,5,Positive,Resolved
+CMP-0472,2026-07-26,Email,Singapore,Mobile App,Returns & Refunds,Return request not processed,Medium,51,4,Positive,Pending
+CMP-0473,2026-07-24,Email,India,Mobile App,Billing & Payments,Unexpected charge on account,High,23,4,Positive,Pending
+CMP-0474,2026-07-15,Web Form,USA,Standard Plan,Login & Account,Unable to reset password,Low,4,5,Positive,Pending
+CMP-0475,2026-07-08,Phone,UK,Premium Plan,Delivery,Package not delivered,Low,27,5,Positive,Resolved
+CMP-0476,2026-07-07,Chat,India,Marketplace,Delivery,Delivery address issue,Low,25,5,Positive,Resolved
+CMP-0477,2026-07-12,Phone,Japan,Marketplace,Billing & Payments,Unexpected charge on account,High,7,5,Positive,Resolved
+CMP-0478,2026-07-17,Chat,India,Standard Plan,Delivery,Delivery address issue,Medium,27,5,Positive,Resolved
+CMP-0479,2026-07-09,Web Form,USA,Marketplace,Subscription,Plan upgrade issue,Low,17,5,Positive,Resolved
+CMP-0480,2026-07-29,Social Media,Japan,Standard Plan,Login & Account,Cannot update profile details,Medium,11,5,Positive,Resolved
+CMP-0481,2026-07-14,Phone,India,Premium Plan,Billing & Payments,Refund not received,Low,17,5,Positive,Resolved
+CMP-0482,2026-07-18,Phone,USA,Mobile App,Delivery,Delivery address issue,Medium,29,5,Positive,Resolved
+CMP-0483,2026-07-16,Web Form,UK,Web Store,Returns & Refunds,Refund status unclear,Medium,40,5,Positive,Resolved
+CMP-0484,2026-07-12,Email,India,Marketplace,Delivery,Package not delivered,Medium,21,5,Positive,Pending
+CMP-0485,2026-07-16,Web Form,India,Premium Plan,Returns & Refunds,Return request not processed,Medium,41,3,Neutral,Resolved
+CMP-0486,2026-07-02,Chat,USA,Web Store,Login & Account,Cannot update profile details,Medium,10,4,Positive,Escalated
+CMP-0487,2026-07-04,Web Form,USA,Standard Plan,Technical Issue,Error while placing order,High,23,4,Positive,Resolved
+CMP-0488,2026-07-11,Phone,India,Mobile App,Login & Account,Unable to reset password,Low,8,4,Positive,Resolved
+CMP-0489,2026-07-06,Chat,UK,Premium Plan,Delivery,Wrong delivery status,Medium,23,3,Neutral,Resolved
+CMP-0490,2026-07-19,Email,India,Web Store,Technical Issue,Error while placing order,Low,8,5,Positive,Resolved
+CMP-0491,2026-07-16,Email,USA,Web Store,Returns & Refunds,Exchange request pending,High,53,4,Positive,Resolved
+CMP-0492,2026-07-28,Web Form,India,Marketplace,Billing & Payments,Unexpected charge on account,Low,9,5,Positive,Resolved
+CMP-0493,2026-07-09,Web Form,India,Premium Plan,Product Quality,Wrong product received,Low,35,4,Positive,Pending
+CMP-0494,2026-07-07,Email,USA,Marketplace,Delivery,Delivery address issue,High,42,5,Positive,Resolved
+CMP-0495,2026-07-25,Chat,UK,Standard Plan,Returns & Refunds,Return pickup delayed,Low,38,4,Positive,Resolved
+CMP-0496,2026-07-14,Web Form,UK,Premium Plan,Delivery,Package not delivered,Low,30,3,Neutral,Resolved
+CMP-0497,2026-07-23,Chat,India,Premium Plan,Billing & Payments,Refund not received,Medium,12,4,Positive,Resolved
+CMP-0498,2026-07-14,Phone,Japan,Standard Plan,Product Quality,Missing component in package,Low,23,4,Positive,Resolved
+CMP-0499,2026-07-07,Web Form,USA,Mobile App,Delivery,Wrong delivery status,High,45,4,Positive,Resolved
+CMP-0500,2026-07-17,Chat,India,Standard Plan,Billing & Payments,Payment failed but money was deducted,High,11,5,Positive,Resolved
+CMP-0501,2026-07-15,Chat,India,Premium Plan,Returns & Refunds,Exchange request pending,High,62,4,Positive,Resolved
+CMP-0502,2026-07-28,Email,India,Premium Plan,Product Quality,Product arrived damaged,Low,36,4,Positive,Resolved
+CMP-0503,2026-07-06,Email,Singapore,Marketplace,Delivery,Delivery address issue,Medium,34,5,Positive,Resolved
+CMP-0504,2026-07-30,Chat,UK,Premium Plan,Product Quality,Wrong product received,High,47,4,Positive,Resolved
+CMP-0505,2026-07-10,Chat,India,Web Store,Product Quality,Wrong product received,High,49,4,Positive,Resolved
+CMP-0506,2026-07-23,Chat,Japan,Mobile App,Login & Account,Account locked after login attempts,High,14,5,Positive,Resolved
+CMP-0507,2026-07-18,Web Form,UK,Mobile App,Billing & Payments,Payment failed but money was deducted,High,24,4,Positive,Resolved
+CMP-0508,2026-07-27,Email,USA,Standard Plan,Returns & Refunds,Exchange request pending,High,67,4,Positive,Resolved
+CMP-0509,2026-07-26,Chat,USA,Marketplace,Technical Issue,Website page not loading,High,13,4,Positive,Resolved
+CMP-0510,2026-07-05,Chat,USA,Web Store,Returns & Refunds,Return pickup delayed,Low,37,5,Positive,Resolved
+CMP-0511,2026-07-18,Email,India,Mobile App,Delivery,Delivery address issue,Low,33,4,Positive,Resolved
+CMP-0512,2026-07-01,Phone,India,Web Store,Billing & Payments,Payment failed but money was deducted,High,13,5,Positive,Resolved
+CMP-0513,2026-07-03,Chat,USA,Premium Plan,Product Quality,Missing component in package,High,57,4,Positive,Resolved
+CMP-0514,2026-07-27,Email,USA,Premium Plan,Technical Issue,Error while placing order,High,18,5,Positive,Escalated
+CMP-0515,2026-07-15,Email,Singapore,Web Store,Technical Issue,Error while placing order,High,21,4,Positive,Resolved
+CMP-0516,2026-07-06,Phone,India,Premium Plan,Delivery,Delivery address issue,Medium,25,4,Positive,Escalated
+CMP-0517,2026-07-04,Email,USA,Web Store,Delivery,Wrong delivery status,Medium,31,5,Positive,Resolved
+CMP-0518,2026-07-19,Chat,India,Mobile App,Product Quality,Product arrived damaged,Low,29,5,Positive,Resolved
+CMP-0519,2026-07-11,Email,India,Marketplace,Login & Account,Account locked after login attempts,Medium,5,4,Positive,Resolved
+CMP-0520,2026-07-26,Email,India,Marketplace,Login & Account,Unable to reset password,Medium,10,5,Positive,Resolved
+CMP-0521,2026-07-09,Phone,India,Web Store,Login & Account,Unable to reset password,High,15,4,Positive,Resolved
+CMP-0522,2026-07-11,Email,India,Premium Plan,Returns & Refunds,Exchange request pending,High,57,4,Positive,Resolved
+CMP-0523,2026-07-27,Email,India,Premium Plan,Product Quality,Product quality below expectation,Medium,33,5,Positive,Resolved
+CMP-0524,2026-07-28,Phone,USA,Marketplace,Returns & Refunds,Exchange request pending,Low,51,3,Neutral,Resolved
+CMP-0525,2026-07-05,Email,UK,Marketplace,Billing & Payments,Payment failed but money was deducted,High,21,5,Positive,Resolved
+CMP-0526,2026-07-27,Email,UK,Mobile App,Returns & Refunds,Return request not processed,Low,32,5,Positive,Resolved
+CMP-0527,2026-07-22,Email,UK,Standard Plan,Technical Issue,Mobile app crashes,Low,21,5,Positive,Resolved
+CMP-0528,2026-07-30,Email,Singapore,Standard Plan,Delivery,Order delivered late,Low,22,4,Positive,Resolved
+CMP-0529,2026-07-27,Web Form,USA,Mobile App,Returns & Refunds,Exchange request pending,Medium,41,5,Positive,Resolved
+CMP-0530,2026-07-04,Web Form,Singapore,Mobile App,Product Quality,Product arrived damaged,Medium,42,4,Positive,Resolved
+CMP-0531,2026-07-24,Chat,Singapore,Marketplace,Technical Issue,Website page not loading,Low,22,3,Neutral,Resolved
+CMP-0532,2026-07-18,Web Form,India,Web Store,Login & Account,Two-factor authentication issue,High,14,4,Positive,Resolved
+CMP-0533,2026-07-11,Web Form,USA,Marketplace,Billing & Payments,Payment failed but money was deducted,Medium,12,4,Positive,Resolved
+CMP-0534,2026-07-12,Chat,Japan,Premium Plan,Returns & Refunds,Refund status unclear,Low,22,5,Positive,Resolved
+CMP-0535,2026-07-01,Chat,Japan,Premium Plan,Billing & Payments,Unexpected charge on account,High,11,5,Positive,Resolved
+CMP-0536,2026-07-30,Web Form,Japan,Marketplace,Login & Account,Cannot update profile details,Medium,9,5,Positive,Resolved
+CMP-0537,2026-07-09,Chat,UK,Web Store,Billing & Payments,Unexpected charge on account,Low,14,4,Positive,Resolved
+CMP-0538,2026-07-27,Web Form,India,Marketplace,Billing & Payments,Unexpected charge on account,High,18,4,Positive,Resolved
+CMP-0539,2026-07-12,Email,India,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,6,5,Positive,Resolved
+CMP-0540,2026-07-10,Phone,UK,Mobile App,Login & Account,Unable to reset password,High,15,5,Positive,Resolved
+CMP-0541,2026-07-22,Chat,India,Mobile App,Returns & Refunds,Return pickup delayed,Low,36,4,Positive,Resolved
+CMP-0542,2026-07-05,Email,India,Standard Plan,Returns & Refunds,Return request not processed,Medium,37,5,Positive,Resolved
+CMP-0543,2026-07-25,Email,India,Standard Plan,Billing & Payments,Payment failed but money was deducted,Medium,15,5,Positive,Resolved
+CMP-0544,2026-07-08,Chat,Singapore,Marketplace,Technical Issue,Website page not loading,High,24,5,Positive,Resolved
+CMP-0545,2026-07-12,Email,India,Premium Plan,Technical Issue,Mobile app crashes,High,16,4,Positive,Resolved
+CMP-0546,2026-07-20,Social Media,UK,Standard Plan,Login & Account,Account locked after login attempts,Medium,9,5,Positive,Resolved
+CMP-0547,2026-07-04,Email,USA,Mobile App,Delivery,Wrong delivery status,Medium,35,4,Positive,Resolved
+CMP-0548,2026-07-10,Email,USA,Mobile App,Billing & Payments,Unexpected charge on account,High,17,4,Positive,Resolved
+CMP-0549,2026-07-16,Chat,USA,Marketplace,Returns & Refunds,Refund status unclear,Low,43,3,Neutral,Resolved
+CMP-0550,2026-07-09,Chat,UK,Mobile App,Returns & Refunds,Exchange request pending,High,55,4,Positive,Resolved
+CMP-0551,2026-07-03,Email,UK,Mobile App,Product Quality,Missing component in package,High,48,2,Negative,Resolved
+CMP-0552,2026-07-08,Web Form,India,Standard Plan,Product Quality,Missing component in package,High,62,4,Positive,Escalated
+CMP-0553,2026-07-07,Web Form,Japan,Web Store,Subscription,Subscription benefit missing,High,22,4,Positive,Resolved
+CMP-0554,2026-07-16,Email,Japan,Premium Plan,Login & Account,Unable to reset password,Medium,12,4,Positive,Resolved
+CMP-0555,2026-07-09,Email,Singapore,Marketplace,Delivery,Wrong delivery status,Medium,21,5,Positive,Resolved
+CMP-0556,2026-07-05,Web Form,Singapore,Web Store,Service Experience,Support response was slow,Medium,20,5,Positive,Resolved
+CMP-0557,2026-07-10,Chat,UK,Standard Plan,Login & Account,Account locked after login attempts,High,13,5,Positive,Resolved
+CMP-0558,2026-07-28,Chat,UK,Web Store,Billing & Payments,Refund not received,Low,14,5,Positive,Resolved
+CMP-0559,2026-07-11,Phone,Japan,Web Store,Technical Issue,Website page not loading,High,33,4,Positive,Resolved
+CMP-0560,2026-07-25,Chat,USA,Mobile App,Login & Account,Account locked after login attempts,Low,10,5,Positive,Pending
+CMP-0561,2026-07-06,Email,India,Web Store,Technical Issue,Checkout button not working,High,24,5,Positive,Pending
+CMP-0562,2026-07-12,Chat,India,Mobile App,Returns & Refunds,Refund status unclear,Low,51,3,Neutral,Resolved
+CMP-0563,2026-07-16,Phone,India,Standard Plan,Product Quality,Wrong product received,High,56,3,Neutral,Resolved
+CMP-0564,2026-07-31,Phone,India,Premium Plan,Delivery,Delivery address issue,Low,30,4,Positive,Escalated
+CMP-0565,2026-07-28,Web Form,Japan,Premium Plan,Billing & Payments,Payment failed but money was deducted,High,13,5,Positive,Resolved
+CMP-0566,2026-07-20,Phone,India,Marketplace,Billing & Payments,Payment failed but money was deducted,Low,15,5,Positive,Resolved
+CMP-0567,2026-07-17,Web Form,India,Web Store,Billing & Payments,Payment failed but money was deducted,High,21,5,Positive,Escalated
+CMP-0568,2026-07-25,Email,Japan,Premium Plan,Returns & Refunds,Return request not processed,Medium,38,5,Positive,Resolved
+CMP-0569,2026-07-24,Chat,UK,Mobile App,Subscription,Subscription renewed unexpectedly,High,22,4,Positive,Resolved
+CMP-0570,2026-07-06,Chat,India,Mobile App,Returns & Refunds,Refund status unclear,Low,50,4,Positive,Resolved
+CMP-0571,2026-07-23,Email,USA,Web Store,Subscription,Unable to cancel subscription,Medium,14,5,Positive,Resolved
+CMP-0572,2026-07-20,Chat,India,Marketplace,Returns & Refunds,Return request not processed,Low,39,4,Positive,Resolved
+CMP-0573,2026-07-06,Chat,UK,Web Store,Billing & Payments,Unexpected charge on account,Medium,13,5,Positive,Resolved
+CMP-0574,2026-07-31,Chat,India,Web Store,Login & Account,Two-factor authentication issue,Low,6,4,Positive,Resolved
+CMP-0575,2026-07-08,Chat,India,Standard Plan,Technical Issue,Error while placing order,High,28,4,Positive,Resolved
+CMP-0576,2026-07-29,Email,UK,Web Store,Technical Issue,Error while placing order,Low,11,4,Positive,Resolved
+CMP-0577,2026-07-28,Email,India,Web Store,Billing & Payments,Refund not received,Low,10,4,Positive,Resolved
+CMP-0578,2026-07-20,Chat,India,Premium Plan,Billing & Payments,Charged twice for the same order,High,22,5,Positive,Resolved
+CMP-0579,2026-07-30,Social Media,USA,Premium Plan,Returns & Refunds,Refund status unclear,Low,31,5,Positive,Resolved
+CMP-0580,2026-07-10,Phone,USA,Mobile App,Subscription,Unable to cancel subscription,High,21,4,Positive,Resolved
+CMP-0581,2026-07-20,Chat,Japan,Web Store,Product Quality,Missing component in package,Low,4,5,Positive,Escalated
+CMP-0582,2026-07-17,Chat,USA,Premium Plan,Technical Issue,Checkout button not working,Medium,9,4,Positive,Resolved
+CMP-0583,2026-07-08,Chat,India,Marketplace,Technical Issue,Error while placing order,High,24,5,Positive,Escalated
+CMP-0584,2026-07-26,Phone,India,Web Store,Billing & Payments,Payment failed but money was deducted,High,20,5,Positive,Resolved
+CMP-0585,2026-07-09,Email,India,Premium Plan,Delivery,Package not delivered,Medium,33,5,Positive,Resolved
+CMP-0586,2026-07-20,Phone,India,Marketplace,Login & Account,Unable to reset password,Medium,12,5,Positive,Resolved
+CMP-0587,2026-07-16,Web Form,USA,Web Store,Delivery,Delivery address issue,Medium,29,4,Positive,Resolved
+CMP-0588,2026-07-27,Web Form,India,Mobile App,Subscription,Subscription benefit missing,Low,11,5,Positive,Resolved
+CMP-0589,2026-07-03,Email,UK,Premium Plan,Returns & Refunds,Return request not processed,Low,17,5,Positive,Resolved
+CMP-0590,2026-07-04,Chat,India,Marketplace,Technical Issue,Website page not loading,Low,11,4,Positive,Resolved
+CMP-0591,2026-07-07,Chat,USA,Premium Plan,Billing & Payments,Refund not received,High,14,5,Positive,Resolved
+CMP-0592,2026-07-26,Web Form,Japan,Mobile App,Billing & Payments,Refund not received,High,18,4,Positive,Resolved
+CMP-0593,2026-07-05,Phone,Japan,Premium Plan,Delivery,Delivery address issue,Low,18,5,Positive,Resolved
+CMP-0594,2026-07-04,Phone,Japan,Marketplace,Service Experience,Agent was not helpful,Low,14,5,Positive,Resolved
+CMP-0595,2026-07-17,Chat,USA,Mobile App,Returns & Refunds,Return request not processed,Medium,50,4,Positive,Resolved
+CMP-0596,2026-07-18,Chat,India,Premium Plan,Delivery,Package not delivered,Medium,29,4,Positive,Resolved
+CMP-0597,2026-07-17,Email,Singapore,Marketplace,Billing & Payments,Unexpected charge on account,Medium,11,5,Positive,Resolved
+CMP-0598,2026-07-20,Chat,India,Premium Plan,Subscription,Plan upgrade issue,Medium,7,5,Positive,Resolved
+CMP-0599,2026-07-13,Email,India,Standard Plan,Technical Issue,Mobile app crashes,Low,17,5,Positive,Resolved
+CMP-0600,2026-07-03,Chat,USA,Marketplace,Login & Account,Cannot update profile details,Medium,10,5,Positive,Resolved
+CMP-0601,2026-07-16,Email,India,Standard Plan,Subscription,Subscription benefit missing,Medium,16,4,Positive,Resolved
+CMP-0602,2026-07-26,Chat,USA,Premium Plan,Delivery,Wrong delivery status,Medium,29,5,Positive,Resolved
+CMP-0603,2026-07-20,Chat,India,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,14,5,Positive,Resolved
+CMP-0604,2026-07-19,Web Form,Japan,Standard Plan,Billing & Payments,Charged twice for the same order,Medium,10,4,Positive,Pending
+CMP-0605,2026-07-19,Web Form,UK,Standard Plan,Billing & Payments,Refund not received,Medium,7,5,Positive,Resolved
+CMP-0606,2026-07-18,Email,UK,Premium Plan,Login & Account,Two-factor authentication issue,Medium,5,5,Positive,Resolved
+CMP-0607,2026-07-11,Phone,UK,Standard Plan,Technical Issue,Mobile app crashes,Medium,13,5,Positive,Resolved
+CMP-0608,2026-07-18,Phone,UK,Standard Plan,Subscription,Unable to cancel subscription,Low,14,5,Positive,Resolved
+CMP-0609,2026-07-30,Chat,USA,Premium Plan,Delivery,Wrong delivery status,Low,21,5,Positive,Resolved
+CMP-0610,2026-07-28,Phone,Japan,Web Store,Billing & Payments,Charged twice for the same order,Medium,9,5,Positive,Resolved
+CMP-0611,2026-07-08,Email,India,Mobile App,Login & Account,Cannot update profile details,Low,5,5,Positive,Resolved
+CMP-0612,2026-07-16,Chat,Japan,Web Store,Login & Account,Two-factor authentication issue,Low,12,5,Positive,Resolved
+CMP-0613,2026-07-05,Email,Singapore,Web Store,Delivery,Delivery address issue,Low,26,4,Positive,Resolved
+CMP-0614,2026-07-21,Social Media,India,Web Store,Subscription,Subscription benefit missing,Medium,16,5,Positive,Resolved
+CMP-0615,2026-07-18,Phone,Japan,Standard Plan,Returns & Refunds,Exchange request pending,High,56,5,Positive,Resolved
+CMP-0616,2026-07-23,Chat,USA,Web Store,Billing & Payments,Charged twice for the same order,Medium,11,4,Positive,Resolved
+CMP-0617,2026-07-31,Phone,India,Standard Plan,Service Experience,Customer wants escalation,Medium,21,5,Positive,Resolved
+CMP-0618,2026-07-03,Chat,India,Marketplace,Service Experience,Issue was transferred multiple times,Low,15,5,Positive,Resolved
+CMP-0619,2026-07-25,Phone,USA,Marketplace,Returns & Refunds,Return pickup delayed,High,66,3,Neutral,Resolved
+CMP-0620,2026-07-10,Chat,Singapore,Premium Plan,Subscription,Plan upgrade issue,Low,19,5,Positive,Resolved
+CMP-0621,2026-07-19,Email,Japan,Web Store,Delivery,Wrong delivery status,Low,24,4,Positive,Resolved
+CMP-0622,2026-07-28,Chat,India,Mobile App,Returns & Refunds,Return pickup delayed,Medium,33,4,Positive,Resolved
+CMP-0623,2026-07-24,Phone,UK,Marketplace,Product Quality,Product arrived damaged,Medium,27,4,Positive,Resolved
+CMP-0624,2026-07-11,Chat,USA,Mobile App,Delivery,Package not delivered,Low,28,4,Positive,Resolved
+CMP-0625,2026-07-24,Phone,India,Standard Plan,Product Quality,Wrong product received,Medium,38,3,Neutral,Resolved
+CMP-0626,2026-07-15,Phone,India,Web Store,Delivery,Wrong delivery status,Medium,31,5,Positive,Resolved
+CMP-0627,2026-07-09,Chat,USA,Standard Plan,Login & Account,Account locked after login attempts,Low,3,5,Positive,Resolved
+CMP-0628,2026-07-22,Chat,India,Marketplace,Subscription,Subscription benefit missing,High,22,4,Positive,Resolved
+CMP-0629,2026-07-11,Phone,UK,Premium Plan,Returns & Refunds,Exchange request pending,High,66,4,Positive,Resolved
+CMP-0630,2026-07-24,Chat,UK,Web Store,Delivery,Delivery address issue,Low,21,5,Positive,Resolved
+CMP-0631,2026-07-27,Chat,India,Mobile App,Login & Account,Account locked after login attempts,Medium,11,5,Positive,Resolved
+CMP-0632,2026-07-02,Email,India,Web Store,Login & Account,Cannot update profile details,Medium,11,4,Positive,Escalated
+CMP-0633,2026-07-05,Phone,India,Marketplace,Service Experience,Support response was slow,Low,23,4,Positive,Resolved
+CMP-0634,2026-07-10,Web Form,USA,Premium Plan,Product Quality,Product quality below expectation,Low,34,4,Positive,Resolved
+CMP-0635,2026-07-09,Phone,USA,Premium Plan,Subscription,Plan upgrade issue,Medium,11,5,Positive,Resolved
+CMP-0636,2026-07-06,Social Media,India,Premium Plan,Technical Issue,Checkout button not working,High,24,5,Positive,Resolved
+CMP-0637,2026-07-18,Email,Japan,Web Store,Subscription,Subscription benefit missing,Low,9,5,Positive,Resolved
+CMP-0638,2026-07-24,Email,India,Marketplace,Technical Issue,Checkout button not working,High,25,4,Positive,Resolved
+CMP-0639,2026-07-22,Phone,India,Mobile App,Subscription,Subscription renewed unexpectedly,High,28,5,Positive,Resolved
+CMP-0640,2026-07-16,Chat,Japan,Standard Plan,Delivery,Delivery address issue,Low,29,4,Positive,Resolved
+CMP-0641,2026-07-04,Email,Singapore,Standard Plan,Product Quality,Product quality below expectation,Low,37,4,Positive,Resolved
+CMP-0642,2026-07-12,Email,Singapore,Mobile App,Login & Account,Two-factor authentication issue,Low,12,5,Positive,Resolved
+CMP-0643,2026-07-31,Phone,India,Mobile App,Technical Issue,Checkout button not working,High,13,4,Positive,Resolved
+CMP-0644,2026-07-24,Chat,USA,Standard Plan,Subscription,Plan upgrade issue,Medium,5,5,Positive,Resolved
+CMP-0645,2026-07-21,Chat,India,Marketplace,Service Experience,Agent was not helpful,Medium,13,4,Positive,Resolved
+CMP-0646,2026-07-13,Email,India,Mobile App,Technical Issue,Mobile app crashes,Low,20,5,Positive,Resolved
+CMP-0647,2026-07-02,Phone,India,Mobile App,Login & Account,Account locked after login attempts,Medium,9,5,Positive,Resolved
+CMP-0648,2026-07-06,Email,UK,Mobile App,Subscription,Unable to cancel subscription,Low,16,5,Positive,Resolved
+CMP-0649,2026-07-04,Web Form,India,Mobile App,Billing & Payments,Refund not received,High,18,4,Positive,Resolved
+CMP-0650,2026-07-11,Chat,USA,Standard Plan,Delivery,Package not delivered,Low,30,5,Positive,Resolved
+CMP-0651,2026-07-03,Phone,UK,Premium Plan,Product Quality,Product quality below expectation,Medium,27,5,Positive,Resolved
+CMP-0652,2026-07-05,Chat,Singapore,Mobile App,Login & Account,Account locked after login attempts,Low,9,4,Positive,Resolved
+CMP-0653,2026-07-06,Web Form,India,Mobile App,Login & Account,Unable to reset password,Low,11,4,Positive,Resolved
+CMP-0654,2026-07-17,Phone,India,Premium Plan,Technical Issue,Error while placing order,High,18,5,Positive,Resolved
+CMP-0655,2026-07-21,Phone,UK,Mobile App,Login & Account,Account locked after login attempts,High,13,5,Positive,Resolved
+CMP-0656,2026-07-20,Email,Japan,Mobile App,Returns & Refunds,Refund status unclear,Low,41,5,Positive,Resolved
+CMP-0657,2026-07-22,Email,India,Web Store,Delivery,Package not delivered,High,41,4,Positive,Resolved
+CMP-0658,2026-07-14,Email,India,Web Store,Login & Account,Unable to reset password,Low,10,4,Positive,Resolved
+CMP-0659,2026-07-06,Phone,Singapore,Web Store,Technical Issue,Mobile app crashes,Medium,11,5,Positive,Resolved
+CMP-0660,2026-07-08,Chat,USA,Premium Plan,Technical Issue,Checkout button not working,High,14,4,Positive,Resolved
+CMP-0661,2026-07-19,Chat,India,Standard Plan,Technical Issue,Website page not loading,Medium,18,5,Positive,Pending
+CMP-0662,2026-07-09,Email,USA,Premium Plan,Billing & Payments,Unexpected charge on account,High,13,5,Positive,Resolved
+CMP-0663,2026-07-06,Email,Japan,Standard Plan,Billing & Payments,Refund not received,Low,14,4,Positive,Resolved
+CMP-0664,2026-07-03,Chat,Japan,Web Store,Returns & Refunds,Refund status unclear,Medium,28,4,Positive,Resolved
+CMP-0665,2026-07-24,Web Form,India,Standard Plan,Delivery,Delivery address issue,Medium,16,5,Positive,Resolved
+CMP-0666,2026-07-02,Web Form,USA,Standard Plan,Subscription,Subscription renewed unexpectedly,High,24,5,Positive,Resolved
+CMP-0667,2026-07-15,Chat,Japan,Mobile App,Technical Issue,Error while placing order,High,16,5,Positive,Resolved
+CMP-0668,2026-07-08,Web Form,India,Premium Plan,Login & Account,Two-factor authentication issue,Medium,10,5,Positive,Resolved
+CMP-0669,2026-07-15,Web Form,USA,Mobile App,Billing & Payments,Payment failed but money was deducted,High,10,5,Positive,Resolved
+CMP-0670,2026-07-28,Phone,USA,Mobile App,Billing & Payments,Unexpected charge on account,Low,12,5,Positive,Resolved
+CMP-0671,2026-07-26,Phone,UK,Marketplace,Delivery,Wrong delivery status,Low,29,4,Positive,Resolved
+CMP-0672,2026-07-29,Chat,Singapore,Premium Plan,Delivery,Order delivered late,Medium,32,5,Positive,Resolved
+CMP-0673,2026-07-18,Email,Japan,Mobile App,Billing & Payments,Unexpected charge on account,High,18,4,Positive,Resolved
+CMP-0674,2026-07-28,Chat,UK,Marketplace,Service Experience,Agent was not helpful,Low,2,5,Positive,Resolved
+CMP-0675,2026-07-03,Chat,Japan,Mobile App,Delivery,Wrong delivery status,Medium,14,5,Positive,Resolved
+CMP-0676,2026-07-29,Phone,UK,Marketplace,Product Quality,Wrong product received,Low,21,4,Positive,Resolved
+CMP-0677,2026-07-03,Email,USA,Mobile App,Subscription,Unable to cancel subscription,Medium,19,5,Positive,Escalated
+CMP-0678,2026-07-28,Email,India,Web Store,Billing & Payments,Unexpected charge on account,Medium,11,3,Neutral,Resolved
+CMP-0679,2026-07-10,Chat,Japan,Mobile App,Login & Account,Account locked after login attempts,Medium,8,5,Positive,Resolved
+CMP-0680,2026-07-16,Chat,India,Premium Plan,Product Quality,Missing component in package,Low,17,5,Positive,Resolved
+CMP-0681,2026-07-06,Chat,USA,Premium Plan,Technical Issue,Checkout button not working,Low,17,5,Positive,Resolved
+CMP-0682,2026-07-30,Chat,Singapore,Marketplace,Billing & Payments,Unexpected charge on account,Medium,14,4,Positive,Resolved
+CMP-0683,2026-07-19,Email,India,Premium Plan,Login & Account,Account locked after login attempts,High,14,5,Positive,Resolved
+CMP-0684,2026-07-12,Phone,Singapore,Web Store,Billing & Payments,Charged twice for the same order,Medium,13,4,Positive,Resolved
+CMP-0685,2026-07-05,Phone,Singapore,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,11,4,Positive,Resolved
+CMP-0686,2026-07-22,Social Media,USA,Marketplace,Delivery,Wrong delivery status,Low,26,5,Positive,Resolved
+CMP-0687,2026-07-22,Phone,USA,Web Store,Technical Issue,Mobile app crashes,High,9,4,Positive,Resolved
+CMP-0688,2026-07-21,Chat,India,Marketplace,Product Quality,Wrong product received,High,54,4,Positive,Resolved
+CMP-0689,2026-07-22,Email,India,Standard Plan,Product Quality,Missing component in package,Low,27,5,Positive,Resolved
+CMP-0690,2026-07-23,Web Form,India,Web Store,Technical Issue,Mobile app crashes,Medium,14,5,Positive,Resolved
+CMP-0691,2026-07-24,Web Form,India,Standard Plan,Delivery,Delivery address issue,Medium,34,4,Positive,Resolved
+CMP-0692,2026-07-20,Phone,India,Marketplace,Login & Account,Two-factor authentication issue,High,17,4,Positive,Resolved
+CMP-0693,2026-07-03,Email,Singapore,Standard Plan,Technical Issue,Checkout button not working,Medium,22,5,Positive,Resolved
+CMP-0694,2026-07-18,Email,USA,Premium Plan,Technical Issue,Website page not loading,High,26,5,Positive,Resolved
+CMP-0695,2026-07-01,Chat,USA,Web Store,Delivery,Wrong delivery status,Medium,28,4,Positive,Pending
+CMP-0696,2026-07-01,Chat,Japan,Web Store,Billing & Payments,Unexpected charge on account,High,16,4,Positive,Escalated
+CMP-0697,2026-07-21,Chat,Japan,Premium Plan,Returns & Refunds,Return pickup delayed,High,71,4,Positive,Escalated
+CMP-0698,2026-07-05,Web Form,India,Mobile App,Technical Issue,Mobile app crashes,Medium,15,5,Positive,Resolved
+CMP-0699,2026-07-10,Phone,Singapore,Mobile App,Delivery,Delivery address issue,Low,14,4,Positive,Resolved
+CMP-0700,2026-07-18,Phone,UK,Web Store,Delivery,Package not delivered,High,39,4,Positive,Resolved
+CMP-0701,2026-07-04,Email,USA,Premium Plan,Product Quality,Missing component in package,Medium,22,5,Positive,Resolved
+CMP-0702,2026-07-30,Chat,Japan,Premium Plan,Billing & Payments,Unexpected charge on account,High,19,5,Positive,Resolved
+CMP-0703,2026-07-28,Web Form,Japan,Marketplace,Technical Issue,Website page not loading,High,24,4,Positive,Resolved
+CMP-0704,2026-07-27,Chat,Singapore,Mobile App,Login & Account,Unable to reset password,Medium,5,5,Positive,Resolved
+CMP-0705,2026-07-17,Web Form,USA,Marketplace,Login & Account,Account locked after login attempts,Low,8,5,Positive,Resolved
+CMP-0706,2026-07-10,Email,USA,Web Store,Product Quality,Product quality below expectation,High,52,4,Positive,Resolved
+CMP-0707,2026-07-02,Email,USA,Standard Plan,Billing & Payments,Charged twice for the same order,High,16,5,Positive,Resolved
+CMP-0708,2026-07-10,Email,India,Mobile App,Returns & Refunds,Exchange request pending,Low,32,5,Positive,Resolved
+CMP-0709,2026-07-01,Chat,India,Premium Plan,Subscription,Subscription renewed unexpectedly,Low,16,5,Positive,Pending
+CMP-0710,2026-07-25,Chat,India,Marketplace,Delivery,Package not delivered,High,42,4,Positive,Resolved
+CMP-0711,2026-07-24,Email,USA,Mobile App,Delivery,Wrong delivery status,Medium,33,5,Positive,Resolved
+CMP-0712,2026-07-06,Phone,India,Mobile App,Login & Account,Cannot update profile details,Medium,8,4,Positive,Resolved
+CMP-0713,2026-07-16,Email,India,Web Store,Technical Issue,Checkout button not working,High,11,4,Positive,Resolved
+CMP-0714,2026-07-24,Email,India,Marketplace,Billing & Payments,Payment failed but money was deducted,High,24,4,Positive,Pending
+CMP-0715,2026-07-28,Chat,USA,Web Store,Delivery,Delivery address issue,Low,25,4,Positive,Resolved
+CMP-0716,2026-07-13,Email,UK,Mobile App,Login & Account,Account locked after login attempts,Low,11,5,Positive,Resolved
+CMP-0717,2026-07-03,Phone,Singapore,Web Store,Billing & Payments,Payment failed but money was deducted,High,18,4,Positive,Resolved
+CMP-0718,2026-07-09,Email,USA,Standard Plan,Returns & Refunds,Exchange request pending,Low,39,4,Positive,Resolved
+CMP-0719,2026-07-16,Chat,UK,Standard Plan,Product Quality,Wrong product received,Medium,32,5,Positive,Resolved
+CMP-0720,2026-07-01,Chat,UK,Web Store,Billing & Payments,Payment failed but money was deducted,High,16,5,Positive,Resolved
+CMP-0721,2026-07-10,Chat,UK,Web Store,Login & Account,Account locked after login attempts,Medium,12,5,Positive,Resolved
+CMP-0722,2026-07-16,Web Form,India,Standard Plan,Login & Account,Two-factor authentication issue,Medium,10,4,Positive,Resolved
+CMP-0723,2026-07-29,Social Media,India,Standard Plan,Returns & Refunds,Return request not processed,Medium,47,4,Positive,Resolved
+CMP-0724,2026-07-29,Email,Japan,Premium Plan,Technical Issue,Mobile app crashes,Medium,14,5,Positive,Resolved
+CMP-0725,2026-07-22,Chat,Japan,Marketplace,Technical Issue,Mobile app crashes,High,25,4,Positive,Resolved
+CMP-0726,2026-07-19,Chat,India,Standard Plan,Returns & Refunds,Refund status unclear,Low,46,5,Positive,Resolved
+CMP-0727,2026-07-12,Email,India,Premium Plan,Delivery,Order delivered late,Medium,30,5,Positive,Resolved
+CMP-0728,2026-07-12,Chat,Singapore,Standard Plan,Delivery,Order delivered late,Medium,33,3,Neutral,Resolved
+CMP-0729,2026-07-04,Web Form,India,Premium Plan,Delivery,Order delivered late,Medium,35,5,Positive,Resolved
+CMP-0730,2026-07-01,Chat,USA,Premium Plan,Technical Issue,Error while placing order,High,26,5,Positive,Resolved
+CMP-0731,2026-07-26,Chat,India,Mobile App,Service Experience,Customer wants escalation,Low,20,4,Positive,Resolved
+CMP-0732,2026-07-07,Email,India,Standard Plan,Technical Issue,Checkout button not working,Low,16,4,Positive,Resolved
+CMP-0733,2026-07-13,Email,India,Marketplace,Returns & Refunds,Return pickup delayed,Low,33,5,Positive,Resolved
+CMP-0734,2026-07-26,Chat,India,Marketplace,Product Quality,Product arrived damaged,High,57,4,Positive,Resolved
+CMP-0735,2026-07-14,Phone,India,Premium Plan,Delivery,Order delivered late,Medium,16,5,Positive,Resolved
+CMP-0736,2026-07-21,Phone,Japan,Mobile App,Delivery,Delivery address issue,High,39,4,Positive,Resolved
+CMP-0737,2026-07-09,Phone,USA,Standard Plan,Returns & Refunds,Refund status unclear,Low,40,4,Positive,Resolved
+CMP-0738,2026-07-08,Chat,India,Web Store,Subscription,Unable to cancel subscription,Low,11,5,Positive,Resolved
+CMP-0739,2026-07-28,Web Form,Singapore,Web Store,Technical Issue,Checkout button not working,Low,17,5,Positive,Resolved
+CMP-0740,2026-07-08,Email,India,Mobile App,Returns & Refunds,Exchange request pending,Medium,28,4,Positive,Pending
+CMP-0741,2026-07-09,Email,India,Mobile App,Returns & Refunds,Return request not processed,Low,52,4,Positive,Resolved
+CMP-0742,2026-07-11,Web Form,India,Mobile App,Billing & Payments,Payment failed but money was deducted,High,22,4,Positive,Resolved
+CMP-0743,2026-07-13,Web Form,UK,Mobile App,Subscription,Subscription benefit missing,Medium,17,5,Positive,Resolved
+CMP-0744,2026-07-09,Chat,USA,Marketplace,Login & Account,Unable to reset password,Medium,5,4,Positive,Resolved
+CMP-0745,2026-07-26,Chat,UK,Standard Plan,Login & Account,Cannot update profile details,Medium,4,5,Positive,Resolved
+CMP-0746,2026-07-09,Email,India,Standard Plan,Billing & Payments,Refund not received,Medium,11,5,Positive,Pending
+CMP-0747,2026-07-12,Phone,Singapore,Web Store,Returns & Refunds,Exchange request pending,Medium,33,5,Positive,Resolved
+CMP-0748,2026-07-23,Web Form,UK,Mobile App,Returns & Refunds,Return request not processed,High,64,5,Positive,Resolved
+CMP-0749,2026-07-28,Web Form,UK,Marketplace,Technical Issue,Checkout button not working,High,30,5,Positive,Resolved
+CMP-0750,2026-07-03,Web Form,Singapore,Premium Plan,Billing & Payments,Payment failed but money was deducted,High,19,5,Positive,Resolved
+CMP-0751,2026-07-26,Phone,USA,Standard Plan,Subscription,Subscription benefit missing,Low,20,4,Positive,Resolved
+CMP-0752,2026-07-23,Phone,Singapore,Premium Plan,Subscription,Subscription benefit missing,Low,11,5,Positive,Resolved
+CMP-0753,2026-07-24,Chat,India,Marketplace,Billing & Payments,Unexpected charge on account,High,13,4,Positive,Resolved
+CMP-0754,2026-07-01,Phone,USA,Web Store,Login & Account,Account locked after login attempts,Low,12,5,Positive,Resolved
+CMP-0755,2026-07-28,Email,USA,Web Store,Billing & Payments,Refund not received,Low,14,5,Positive,Resolved
+CMP-0756,2026-07-26,Email,UK,Premium Plan,Product Quality,Product quality below expectation,Medium,21,5,Positive,Resolved
+CMP-0757,2026-07-01,Web Form,USA,Web Store,Technical Issue,Error while placing order,Low,13,4,Positive,Resolved
+CMP-0758,2026-07-02,Email,USA,Web Store,Billing & Payments,Payment failed but money was deducted,Medium,13,5,Positive,Resolved
+CMP-0759,2026-07-27,Email,Japan,Standard Plan,Delivery,Order delivered late,High,42,4,Positive,Resolved
+CMP-0760,2026-07-10,Web Form,USA,Premium Plan,Login & Account,Account locked after login attempts,Medium,6,5,Positive,Resolved
+CMP-0761,2026-07-14,Social Media,India,Web Store,Delivery,Package not delivered,High,39,4,Positive,Resolved
+CMP-0762,2026-07-12,Email,Japan,Web Store,Billing & Payments,Unexpected charge on account,Medium,12,4,Positive,Resolved
+CMP-0763,2026-07-24,Phone,USA,Standard Plan,Product Quality,Wrong product received,Medium,31,5,Positive,Resolved
+CMP-0764,2026-07-31,Chat,India,Marketplace,Billing & Payments,Refund not received,High,23,5,Positive,Resolved
+CMP-0765,2026-07-10,Email,Japan,Standard Plan,Login & Account,Unable to reset password,Medium,8,4,Positive,Escalated
+CMP-0766,2026-07-29,Email,Japan,Premium Plan,Returns & Refunds,Return pickup delayed,Medium,44,3,Neutral,Resolved
+CMP-0767,2026-07-16,Email,India,Web Store,Technical Issue,Checkout button not working,Medium,20,5,Positive,Resolved
+CMP-0768,2026-07-11,Chat,Japan,Web Store,Delivery,Wrong delivery status,Low,23,4,Positive,Resolved
+CMP-0769,2026-07-06,Email,India,Web Store,Product Quality,Wrong product received,Medium,42,4,Positive,Resolved
+CMP-0770,2026-07-16,Email,India,Marketplace,Technical Issue,Error while placing order,High,10,3,Neutral,Resolved
+CMP-0771,2026-07-27,Email,USA,Web Store,Billing & Payments,Unexpected charge on account,Medium,13,5,Positive,Resolved
+CMP-0772,2026-07-30,Chat,UK,Standard Plan,Returns & Refunds,Return request not processed,High,66,3,Neutral,Resolved
+CMP-0773,2026-07-13,Email,UK,Mobile App,Login & Account,Cannot update profile details,Low,7,5,Positive,Resolved
+CMP-0774,2026-07-15,Email,USA,Standard Plan,Delivery,Order delivered late,Low,18,5,Positive,Resolved
+CMP-0775,2026-07-05,Chat,USA,Marketplace,Service Experience,Customer wants escalation,Medium,27,5,Positive,Resolved
+CMP-0776,2026-07-13,Phone,Japan,Marketplace,Delivery,Order delivered late,Medium,27,4,Positive,Resolved
+CMP-0777,2026-07-13,Email,USA,Web Store,Login & Account,Two-factor authentication issue,Low,6,4,Positive,Escalated
+CMP-0778,2026-07-29,Web Form,USA,Premium Plan,Billing & Payments,Payment failed but money was deducted,High,12,5,Positive,Resolved
+CMP-0779,2026-07-09,Chat,USA,Standard Plan,Product Quality,Product quality below expectation,High,47,4,Positive,Resolved
+CMP-0780,2026-07-03,Phone,Japan,Standard Plan,Login & Account,Cannot update profile details,High,15,4,Positive,Resolved
+CMP-0781,2026-07-17,Phone,USA,Standard Plan,Technical Issue,Website page not loading,Medium,17,4,Positive,Resolved
+CMP-0782,2026-07-27,Chat,Singapore,Premium Plan,Subscription,Subscription benefit missing,Medium,2,5,Positive,Resolved
+CMP-0783,2026-07-04,Chat,Japan,Standard Plan,Returns & Refunds,Return request not processed,Low,52,4,Positive,Resolved
+CMP-0784,2026-07-06,Phone,India,Standard Plan,Delivery,Order delivered late,Medium,28,5,Positive,Resolved
+CMP-0785,2026-07-20,Chat,USA,Standard Plan,Product Quality,Missing component in package,Low,16,4,Positive,Resolved
+CMP-0786,2026-07-28,Email,Singapore,Premium Plan,Billing & Payments,Refund not received,Medium,17,4,Positive,Resolved
+CMP-0787,2026-07-24,Chat,India,Marketplace,Billing & Payments,Payment failed but money was deducted,Low,15,4,Positive,Resolved
+CMP-0788,2026-07-01,Web Form,India,Web Store,Login & Account,Two-factor authentication issue,Low,11,5,Positive,Resolved
+CMP-0789,2026-07-14,Email,UK,Web Store,Billing & Payments,Charged twice for the same order,Medium,6,5,Positive,Resolved
+CMP-0790,2026-07-24,Chat,India,Web Store,Technical Issue,Error while placing order,Medium,13,4,Positive,Resolved
+CMP-0791,2026-07-02,Chat,USA,Standard Plan,Returns & Refunds,Refund status unclear,Medium,44,5,Positive,Resolved
+CMP-0792,2026-07-24,Web Form,USA,Marketplace,Technical Issue,Error while placing order,High,11,5,Positive,Resolved
+CMP-0793,2026-07-14,Email,India,Mobile App,Technical Issue,Error while placing order,Medium,20,5,Positive,Resolved
+CMP-0794,2026-07-15,Chat,Singapore,Premium Plan,Subscription,Unable to cancel subscription,Medium,16,5,Positive,Resolved
+CMP-0795,2026-07-30,Chat,Japan,Marketplace,Delivery,Wrong delivery status,Low,19,5,Positive,Resolved
+CMP-0796,2026-07-31,Email,India,Standard Plan,Login & Account,Two-factor authentication issue,Low,6,3,Neutral,Resolved
+CMP-0797,2026-07-07,Web Form,USA,Marketplace,Delivery,Delivery address issue,Low,32,5,Positive,Resolved
+CMP-0798,2026-07-31,Email,Japan,Standard Plan,Billing & Payments,Refund not received,High,2,4,Positive,Resolved
+CMP-0799,2026-07-06,Web Form,India,Web Store,Service Experience,Issue was transferred multiple times,Low,26,5,Positive,Resolved
+CMP-0800,2026-07-11,Email,India,Premium Plan,Billing & Payments,Refund not received,High,14,4,Positive,Resolved
+CMP-0801,2026-07-22,Web Form,USA,Marketplace,Delivery,Package not delivered,Medium,26,5,Positive,Pending
+CMP-0802,2026-07-26,Social Media,USA,Marketplace,Service Experience,Support response was slow,Low,17,4,Positive,Resolved
+CMP-0803,2026-07-24,Web Form,Singapore,Web Store,Billing & Payments,Charged twice for the same order,Medium,11,4,Positive,Resolved
+CMP-0804,2026-07-15,Chat,India,Web Store,Billing & Payments,Unexpected charge on account,Medium,14,5,Positive,Resolved
+CMP-0805,2026-07-12,Email,India,Standard Plan,Delivery,Package not delivered,Medium,31,4,Positive,Resolved
+CMP-0806,2026-07-29,Email,Japan,Standard Plan,Technical Issue,Website page not loading,Low,16,4,Positive,Pending
+CMP-0807,2026-07-03,Phone,Japan,Mobile App,Billing & Payments,Charged twice for the same order,High,18,4,Positive,Resolved
+CMP-0808,2026-07-29,Email,USA,Web Store,Login & Account,Two-factor authentication issue,Low,9,5,Positive,Pending
+CMP-0809,2026-07-01,Phone,India,Premium Plan,Technical Issue,Checkout button not working,Low,19,4,Positive,Resolved
+CMP-0810,2026-07-21,Web Form,UK,Marketplace,Technical Issue,Website page not loading,High,15,5,Positive,Resolved
+CMP-0811,2026-07-11,Web Form,India,Marketplace,Returns & Refunds,Refund status unclear,Low,43,3,Neutral,Resolved
+CMP-0812,2026-07-17,Email,Japan,Premium Plan,Technical Issue,Checkout button not working,High,23,4,Positive,Resolved
+CMP-0813,2026-07-17,Email,USA,Standard Plan,Billing & Payments,Unexpected charge on account,High,23,5,Positive,Resolved
+CMP-0814,2026-07-15,Email,USA,Mobile App,Technical Issue,Checkout button not working,Medium,15,5,Positive,Escalated
+CMP-0815,2026-07-22,Phone,USA,Marketplace,Delivery,Wrong delivery status,Medium,28,5,Positive,Resolved
+CMP-0816,2026-07-05,Web Form,India,Mobile App,Billing & Payments,Refund not received,Medium,16,4,Positive,Resolved
+CMP-0817,2026-07-13,Email,India,Marketplace,Subscription,Subscription benefit missing,Medium,12,5,Positive,Resolved
+CMP-0818,2026-07-24,Phone,Singapore,Standard Plan,Delivery,Delivery address issue,Medium,24,4,Positive,Resolved
+CMP-0819,2026-07-04,Email,USA,Marketplace,Technical Issue,Error while placing order,Medium,11,5,Positive,Resolved
+CMP-0820,2026-07-12,Phone,India,Mobile App,Returns & Refunds,Return request not processed,High,72,3,Neutral,Resolved
+CMP-0821,2026-07-16,Chat,India,Premium Plan,Billing & Payments,Unexpected charge on account,High,14,5,Positive,Resolved
+CMP-0822,2026-07-01,Web Form,India,Standard Plan,Technical Issue,Checkout button not working,High,17,5,Positive,Resolved
+CMP-0823,2026-07-16,Chat,USA,Standard Plan,Technical Issue,Checkout button not working,Low,11,5,Positive,Resolved
+CMP-0824,2026-07-03,Phone,India,Premium Plan,Technical Issue,Error while placing order,Medium,16,5,Positive,Resolved
+CMP-0825,2026-07-21,Social Media,USA,Premium Plan,Delivery,Order delivered late,High,39,5,Positive,Resolved
+CMP-0826,2026-07-03,Chat,India,Marketplace,Billing & Payments,Unexpected charge on account,Low,16,5,Positive,Escalated
+CMP-0827,2026-07-31,Email,Singapore,Web Store,Login & Account,Unable to reset password,Low,10,5,Positive,Resolved
+CMP-0828,2026-07-13,Email,Japan,Premium Plan,Login & Account,Two-factor authentication issue,Medium,11,5,Positive,Pending
+CMP-0829,2026-07-09,Email,Japan,Standard Plan,Technical Issue,Error while placing order,Medium,19,5,Positive,Resolved
+CMP-0830,2026-07-02,Email,Singapore,Web Store,Billing & Payments,Charged twice for the same order,High,9,5,Positive,Resolved
+CMP-0831,2026-07-09,Chat,India,Premium Plan,Delivery,Order delivered late,High,40,4,Positive,Resolved
+CMP-0832,2026-07-17,Phone,UK,Standard Plan,Billing & Payments,Refund not received,Medium,3,5,Positive,Resolved
+CMP-0833,2026-07-30,Chat,India,Web Store,Returns & Refunds,Return request not processed,High,61,4,Positive,Resolved
+CMP-0834,2026-07-10,Email,Japan,Web Store,Returns & Refunds,Return request not processed,Medium,27,4,Positive,Resolved
+CMP-0835,2026-07-18,Chat,Singapore,Web Store,Technical Issue,Website page not loading,High,23,5,Positive,Resolved
+CMP-0836,2026-07-01,Social Media,UK,Web Store,Billing & Payments,Payment failed but money was deducted,Medium,12,5,Positive,Resolved
+CMP-0837,2026-07-10,Web Form,India,Marketplace,Login & Account,Cannot update profile details,Low,8,4,Positive,Resolved
+CMP-0838,2026-07-09,Phone,USA,Marketplace,Delivery,Delivery address issue,High,43,4,Positive,Resolved
+CMP-0839,2026-07-25,Web Form,Singapore,Premium Plan,Service Experience,Issue was transferred multiple times,High,31,5,Positive,Resolved
+CMP-0840,2026-07-11,Chat,Japan,Marketplace,Returns & Refunds,Return pickup delayed,High,56,4,Positive,Resolved
+CMP-0841,2026-07-22,Phone,India,Mobile App,Returns & Refunds,Return request not processed,Low,47,4,Positive,Resolved
+CMP-0842,2026-07-18,Chat,USA,Mobile App,Technical Issue,Error while placing order,Low,12,5,Positive,Resolved
+CMP-0843,2026-07-27,Web Form,India,Web Store,Delivery,Delivery address issue,Medium,16,5,Positive,Resolved
+CMP-0844,2026-07-22,Email,India,Premium Plan,Delivery,Order delivered late,Medium,23,5,Positive,Resolved
+CMP-0845,2026-07-02,Email,Japan,Premium Plan,Returns & Refunds,Refund status unclear,Low,46,4,Positive,Resolved
+CMP-0846,2026-07-28,Social Media,UK,Mobile App,Delivery,Package not delivered,Medium,33,4,Positive,Resolved
+CMP-0847,2026-07-05,Email,India,Mobile App,Delivery,Package not delivered,High,36,3,Neutral,Resolved
+CMP-0848,2026-07-20,Email,UK,Marketplace,Delivery,Wrong delivery status,Low,29,5,Positive,Resolved
+CMP-0849,2026-07-09,Web Form,India,Standard Plan,Subscription,Unable to cancel subscription,Medium,10,4,Positive,Resolved
+CMP-0850,2026-07-30,Web Form,India,Premium Plan,Technical Issue,Mobile app crashes,Medium,21,5,Positive,Resolved
+CMP-0851,2026-07-31,Social Media,India,Standard Plan,Billing & Payments,Charged twice for the same order,High,15,5,Positive,Resolved
+CMP-0852,2026-07-19,Email,Japan,Mobile App,Delivery,Order delivered late,Medium,34,5,Positive,Resolved
+CMP-0853,2026-07-17,Social Media,USA,Premium Plan,Billing & Payments,Refund not received,Low,16,5,Positive,Resolved
+CMP-0854,2026-07-13,Email,India,Mobile App,Returns & Refunds,Return request not processed,Low,51,5,Positive,Resolved
+CMP-0855,2026-07-03,Email,UK,Standard Plan,Billing & Payments,Payment failed but money was deducted,High,13,4,Positive,Resolved
+CMP-0856,2026-07-28,Email,USA,Web Store,Product Quality,Wrong product received,High,49,4,Positive,Resolved
+CMP-0857,2026-07-20,Chat,Japan,Marketplace,Billing & Payments,Payment failed but money was deducted,Low,3,5,Positive,Resolved
+CMP-0858,2026-07-19,Email,India,Mobile App,Technical Issue,Website page not loading,Low,14,5,Positive,Resolved
+CMP-0859,2026-07-02,Email,India,Mobile App,Technical Issue,Error while placing order,Medium,20,5,Positive,Resolved
+CMP-0860,2026-07-10,Email,India,Premium Plan,Delivery,Package not delivered,Medium,34,4,Positive,Resolved
+CMP-0861,2026-07-14,Chat,USA,Mobile App,Billing & Payments,Refund not received,Low,16,5,Positive,Resolved
+CMP-0862,2026-07-20,Phone,USA,Standard Plan,Billing & Payments,Refund not received,Low,17,5,Positive,Resolved
+CMP-0863,2026-07-16,Email,Japan,Mobile App,Delivery,Wrong delivery status,Medium,18,5,Positive,Resolved
+CMP-0864,2026-07-26,Email,USA,Premium Plan,Delivery,Package not delivered,Medium,22,5,Positive,Resolved
+CMP-0865,2026-07-04,Email,India,Marketplace,Service Experience,Issue was transferred multiple times,Medium,24,5,Positive,Resolved
+CMP-0866,2026-07-10,Email,India,Web Store,Subscription,Plan upgrade issue,Low,14,5,Positive,Resolved
+CMP-0867,2026-07-30,Email,India,Premium Plan,Delivery,Package not delivered,Low,27,4,Positive,Resolved
+CMP-0868,2026-07-08,Chat,India,Standard Plan,Returns & Refunds,Return request not processed,High,53,3,Neutral,Resolved
+CMP-0869,2026-07-29,Web Form,India,Web Store,Billing & Payments,Payment failed but money was deducted,High,8,4,Positive,Resolved
+CMP-0870,2026-07-30,Chat,Singapore,Web Store,Login & Account,Cannot update profile details,High,13,5,Positive,Resolved
+CMP-0871,2026-07-21,Web Form,India,Mobile App,Billing & Payments,Unexpected charge on account,High,13,5,Positive,Resolved
+CMP-0872,2026-07-26,Email,India,Standard Plan,Returns & Refunds,Exchange request pending,Medium,43,5,Positive,Resolved
+CMP-0873,2026-07-23,Chat,Japan,Premium Plan,Login & Account,Cannot update profile details,Low,6,5,Positive,Resolved
+CMP-0874,2026-07-21,Chat,UK,Marketplace,Technical Issue,Checkout button not working,High,24,5,Positive,Resolved
+CMP-0875,2026-07-19,Chat,India,Standard Plan,Delivery,Package not delivered,Low,29,5,Positive,Resolved
+CMP-0876,2026-07-19,Chat,Japan,Web Store,Billing & Payments,Charged twice for the same order,Medium,1,5,Positive,Resolved
+CMP-0877,2026-07-01,Web Form,India,Standard Plan,Technical Issue,Checkout button not working,High,13,4,Positive,Resolved
+CMP-0878,2026-07-21,Chat,Japan,Marketplace,Delivery,Order delivered late,Medium,33,5,Positive,Resolved
+CMP-0879,2026-07-22,Email,India,Web Store,Billing & Payments,Unexpected charge on account,High,13,5,Positive,Resolved
+CMP-0880,2026-07-28,Email,UK,Web Store,Login & Account,Cannot update profile details,High,15,5,Positive,Resolved
+CMP-0881,2026-07-31,Chat,India,Standard Plan,Delivery,Wrong delivery status,High,44,4,Positive,Resolved
+CMP-0882,2026-07-28,Phone,Singapore,Web Store,Returns & Refunds,Exchange request pending,Medium,43,3,Neutral,Resolved
+CMP-0883,2026-07-11,Phone,Japan,Mobile App,Technical Issue,Error while placing order,Low,16,4,Positive,Resolved
+CMP-0884,2026-07-10,Chat,UK,Web Store,Technical Issue,Mobile app crashes,High,31,4,Positive,Resolved
+CMP-0885,2026-07-25,Chat,India,Standard Plan,Returns & Refunds,Return pickup delayed,Medium,43,5,Positive,Resolved
+CMP-0886,2026-07-19,Web Form,India,Premium Plan,Returns & Refunds,Return request not processed,Low,42,5,Positive,Resolved
+CMP-0887,2026-07-13,Email,India,Marketplace,Product Quality,Wrong product received,Medium,28,5,Positive,Resolved
+CMP-0888,2026-07-06,Email,India,Marketplace,Technical Issue,Checkout button not working,Medium,13,4,Positive,Resolved
+CMP-0889,2026-07-03,Chat,India,Marketplace,Billing & Payments,Payment failed but money was deducted,Medium,11,5,Positive,Resolved
+CMP-0890,2026-07-14,Email,India,Marketplace,Subscription,Subscription benefit missing,Medium,13,4,Positive,Escalated
+CMP-0891,2026-07-06,Chat,USA,Standard Plan,Billing & Payments,Refund not received,Low,7,5,Positive,Resolved
+CMP-0892,2026-07-03,Email,Singapore,Standard Plan,Login & Account,Cannot update profile details,Low,4,5,Positive,Resolved
+CMP-0893,2026-07-10,Chat,UK,Mobile App,Subscription,Subscription benefit missing,Low,16,4,Positive,Resolved
+CMP-0894,2026-07-14,Chat,USA,Web Store,Product Quality,Missing component in package,Low,32,4,Positive,Resolved
+CMP-0895,2026-07-08,Phone,India,Mobile App,Technical Issue,Website page not loading,Medium,20,5,Positive,Resolved
+CMP-0896,2026-07-04,Web Form,India,Marketplace,Billing & Payments,Refund not received,Medium,4,5,Positive,Resolved
+CMP-0897,2026-07-01,Email,Japan,Standard Plan,Technical Issue,Website page not loading,Low,16,5,Positive,Resolved
+CMP-0898,2026-07-23,Chat,India,Mobile App,Login & Account,Account locked after login attempts,Low,10,4,Positive,Resolved
+CMP-0899,2026-07-05,Chat,India,Standard Plan,Technical Issue,Mobile app crashes,High,15,4,Positive,Resolved
+CMP-0900,2026-07-06,Email,India,Standard Plan,Product Quality,Product arrived damaged,High,49,4,Positive,Resolved
+CMP-0901,2026-07-29,Chat,India,Mobile App,Login & Account,Account locked after login attempts,High,16,5,Positive,Resolved
+CMP-0902,2026-07-20,Chat,India,Mobile App,Login & Account,Unable to reset password,Low,7,4,Positive,Resolved
+CMP-0903,2026-07-14,Web Form,India,Mobile App,Subscription,Plan upgrade issue,Medium,5,4,Positive,Resolved
+CMP-0904,2026-07-24,Social Media,India,Web Store,Returns & Refunds,Refund status unclear,Medium,45,4,Positive,Resolved
+CMP-0905,2026-07-31,Phone,Singapore,Standard Plan,Delivery,Package not delivered,Medium,12,5,Positive,Resolved
+CMP-0906,2026-07-07,Chat,India,Standard Plan,Delivery,Order delivered late,Medium,23,5,Positive,Resolved
+CMP-0907,2026-07-10,Email,USA,Standard Plan,Returns & Refunds,Return pickup delayed,High,65,4,Positive,Escalated
+CMP-0908,2026-07-21,Email,India,Premium Plan,Login & Account,Account locked after login attempts,Low,9,4,Positive,Escalated
+CMP-0909,2026-07-11,Social Media,UK,Mobile App,Delivery,Wrong delivery status,Low,6,4,Positive,Resolved
+CMP-0910,2026-07-08,Chat,USA,Mobile App,Technical Issue,Website page not loading,Medium,16,4,Positive,Resolved
+CMP-0911,2026-07-16,Phone,India,Premium Plan,Technical Issue,Website page not loading,High,17,5,Positive,Resolved
+CMP-0912,2026-07-11,Phone,India,Premium Plan,Billing & Payments,Payment failed but money was deducted,Medium,12,4,Positive,Pending
+CMP-0913,2026-07-07,Web Form,India,Web Store,Login & Account,Account locked after login attempts,Low,10,5,Positive,Resolved
+CMP-0914,2026-07-06,Phone,India,Premium Plan,Delivery,Package not delivered,Medium,17,5,Positive,Resolved
+CMP-0915,2026-07-05,Email,Singapore,Web Store,Billing & Payments,Refund not received,Low,13,5,Positive,Escalated
+CMP-0916,2026-07-08,Phone,India,Web Store,Technical Issue,Error while placing order,Medium,22,5,Positive,Resolved
+CMP-0917,2026-07-31,Email,USA,Mobile App,Service Experience,Agent was not helpful,High,29,4,Positive,Resolved
+CMP-0918,2026-07-27,Chat,USA,Web Store,Technical Issue,Error while placing order,Medium,14,5,Positive,Resolved
+CMP-0919,2026-07-09,Chat,India,Web Store,Subscription,Plan upgrade issue,Medium,9,5,Positive,Resolved
+CMP-0920,2026-07-07,Email,India,Standard Plan,Returns & Refunds,Exchange request pending,Medium,41,4,Positive,Resolved
+CMP-0921,2026-07-24,Chat,Singapore,Standard Plan,Technical Issue,Checkout button not working,Low,17,4,Positive,Resolved
+CMP-0922,2026-07-06,Social Media,India,Marketplace,Technical Issue,Mobile app crashes,Medium,14,5,Positive,Resolved
+CMP-0923,2026-07-21,Phone,India,Mobile App,Login & Account,Two-factor authentication issue,Medium,10,4,Positive,Resolved
+CMP-0924,2026-07-09,Phone,UK,Web Store,Technical Issue,Checkout button not working,High,25,4,Positive,Escalated
+CMP-0925,2026-07-13,Email,USA,Standard Plan,Delivery,Package not delivered,High,37,4,Positive,Escalated
+CMP-0926,2026-07-09,Web Form,India,Standard Plan,Technical Issue,Website page not loading,Medium,13,5,Positive,Resolved
+CMP-0927,2026-07-04,Phone,Singapore,Mobile App,Returns & Refunds,Exchange request pending,Low,24,5,Positive,Resolved
+CMP-0928,2026-07-01,Web Form,India,Premium Plan,Billing & Payments,Refund not received,High,18,4,Positive,Resolved
+CMP-0929,2026-07-06,Chat,UK,Standard Plan,Billing & Payments,Payment failed but money was deducted,High,20,4,Positive,Resolved
+CMP-0930,2026-07-19,Email,Singapore,Standard Plan,Billing & Payments,Payment failed but money was deducted,High,15,5,Positive,Resolved
+CMP-0931,2026-07-15,Email,USA,Standard Plan,Product Quality,Product quality below expectation,Low,34,5,Positive,Resolved
+CMP-0932,2026-07-11,Email,India,Mobile App,Billing & Payments,Unexpected charge on account,High,17,4,Positive,Resolved
+CMP-0933,2026-07-22,Email,USA,Mobile App,Login & Account,Unable to reset password,High,14,4,Positive,Escalated
+CMP-0934,2026-07-30,Chat,Japan,Premium Plan,Delivery,Order delivered late,High,38,5,Positive,Resolved
+CMP-0935,2026-07-27,Chat,USA,Premium Plan,Returns & Refunds,Return pickup delayed,Low,25,4,Positive,Resolved
+CMP-0936,2026-07-15,Web Form,USA,Mobile App,Billing & Payments,Unexpected charge on account,Low,8,5,Positive,Resolved
+CMP-0937,2026-07-12,Social Media,USA,Web Store,Returns & Refunds,Return pickup delayed,Low,37,5,Positive,Resolved
+CMP-0938,2026-07-01,Email,UK,Premium Plan,Technical Issue,Website page not loading,High,26,5,Positive,Resolved
+CMP-0939,2026-07-13,Phone,India,Standard Plan,Service Experience,Issue was transferred multiple times,Low,17,5,Positive,Resolved
+CMP-0940,2026-07-24,Social Media,USA,Mobile App,Subscription,Subscription benefit missing,Low,6,4,Positive,Resolved
+CMP-0941,2026-07-27,Email,USA,Premium Plan,Product Quality,Product arrived damaged,High,48,5,Positive,Pending
+CMP-0942,2026-07-08,Social Media,Japan,Marketplace,Billing & Payments,Payment failed but money was deducted,High,7,4,Positive,Escalated
+CMP-0943,2026-07-25,Email,Singapore,Standard Plan,Billing & Payments,Charged twice for the same order,Low,13,5,Positive,Escalated
+CMP-0944,2026-07-30,Email,USA,Web Store,Returns & Refunds,Exchange request pending,Low,30,5,Positive,Resolved
+CMP-0945,2026-07-26,Phone,USA,Standard Plan,Delivery,Delivery address issue,Medium,23,5,Positive,Resolved
+CMP-0946,2026-07-19,Phone,Singapore,Mobile App,Billing & Payments,Unexpected charge on account,Low,16,5,Positive,Resolved
+CMP-0947,2026-07-14,Chat,India,Standard Plan,Billing & Payments,Charged twice for the same order,Low,11,5,Positive,Resolved
+CMP-0948,2026-07-11,Email,India,Standard Plan,Technical Issue,Website page not loading,Low,17,4,Positive,Resolved
+CMP-0949,2026-07-20,Email,UK,Mobile App,Technical Issue,Checkout button not working,Low,16,5,Positive,Resolved
+CMP-0950,2026-07-23,Phone,India,Premium Plan,Product Quality,Wrong product received,Low,43,4,Positive,Resolved
+CMP-0951,2026-07-23,Web Form,Singapore,Web Store,Product Quality,Product quality below expectation,Low,44,4,Positive,Resolved
+CMP-0952,2026-07-01,Chat,USA,Web Store,Product Quality,Wrong product received,High,50,4,Positive,Resolved
+CMP-0953,2026-07-24,Phone,India,Marketplace,Login & Account,Cannot update profile details,Low,9,5,Positive,Resolved
+CMP-0954,2026-07-28,Email,India,Marketplace,Product Quality,Wrong product received,Low,16,4,Positive,Resolved
+CMP-0955,2026-07-07,Chat,Japan,Web Store,Returns & Refunds,Refund status unclear,Low,24,5,Positive,Resolved
+CMP-0956,2026-07-13,Phone,Singapore,Web Store,Billing & Payments,Charged twice for the same order,High,22,5,Positive,Resolved
+CMP-0957,2026-07-04,Chat,Japan,Mobile App,Subscription,Unable to cancel subscription,Medium,19,5,Positive,Resolved
+CMP-0958,2026-07-16,Email,India,Standard Plan,Billing & Payments,Payment failed but money was deducted,Medium,5,5,Positive,Resolved
+CMP-0959,2026-07-09,Phone,USA,Standard Plan,Login & Account,Unable to reset password,Medium,7,5,Positive,Resolved
+CMP-0960,2026-07-08,Chat,UK,Marketplace,Billing & Payments,Charged twice for the same order,Low,13,5,Positive,Resolved
+CMP-0961,2026-07-10,Chat,Singapore,Standard Plan,Login & Account,Account locked after login attempts,Medium,3,5,Positive,Resolved
+CMP-0962,2026-07-18,Chat,USA,Standard Plan,Subscription,Subscription renewed unexpectedly,Low,9,5,Positive,Resolved
+CMP-0963,2026-07-06,Phone,India,Mobile App,Technical Issue,Mobile app crashes,High,31,4,Positive,Resolved
+CMP-0964,2026-07-21,Email,India,Web Store,Returns & Refunds,Return pickup delayed,Low,4,5,Positive,Resolved
+CMP-0965,2026-07-06,Chat,India,Marketplace,Billing & Payments,Charged twice for the same order,High,19,5,Positive,Resolved
+CMP-0966,2026-07-16,Phone,Japan,Marketplace,Delivery,Wrong delivery status,Medium,15,5,Positive,Pending
+CMP-0967,2026-07-08,Phone,UK,Mobile App,Returns & Refunds,Refund status unclear,Medium,35,4,Positive,Resolved
+CMP-0968,2026-07-09,Phone,India,Premium Plan,Delivery,Package not delivered,High,53,3,Neutral,Resolved
+CMP-0969,2026-07-13,Email,UK,Web Store,Billing & Payments,Unexpected charge on account,Low,15,5,Positive,Escalated
+CMP-0970,2026-07-23,Phone,India,Web Store,Returns & Refunds,Return request not processed,High,57,4,Positive,Resolved
+CMP-0971,2026-07-13,Chat,India,Standard Plan,Product Quality,Product quality below expectation,Medium,39,4,Positive,Resolved
+CMP-0972,2026-07-30,Email,UK,Premium Plan,Returns & Refunds,Exchange request pending,Medium,45,4,Positive,Resolved
+CMP-0973,2026-07-13,Email,Singapore,Web Store,Delivery,Order delivered late,Low,34,4,Positive,Resolved
+CMP-0974,2026-07-17,Chat,USA,Mobile App,Login & Account,Cannot update profile details,Low,11,5,Positive,Resolved
+CMP-0975,2026-07-06,Web Form,India,Standard Plan,Delivery,Order delivered late,High,39,4,Positive,Resolved
+CMP-0976,2026-07-22,Chat,India,Mobile App,Service Experience,Customer wants escalation,Medium,8,5,Positive,Resolved
+CMP-0977,2026-07-23,Email,USA,Premium Plan,Technical Issue,Checkout button not working,Low,12,4,Positive,Resolved
+CMP-0978,2026-07-17,Chat,India,Standard Plan,Service Experience,Customer wants escalation,Low,17,5,Positive,Resolved
+CMP-0979,2026-07-28,Web Form,India,Premium Plan,Returns & Refunds,Return request not processed,Medium,10,5,Positive,Resolved
+CMP-0980,2026-07-18,Chat,India,Premium Plan,Subscription,Subscription renewed unexpectedly,High,21,5,Positive,Resolved
+CMP-0981,2026-07-16,Phone,Singapore,Web Store,Service Experience,Customer wants escalation,Low,21,5,Positive,Resolved
+CMP-0982,2026-07-23,Chat,UK,Mobile App,Returns & Refunds,Return request not processed,Medium,49,4,Positive,Resolved
+CMP-0983,2026-07-29,Phone,Singapore,Marketplace,Service Experience,Support response was slow,Medium,26,5,Positive,Resolved
+CMP-0984,2026-07-04,Chat,India,Premium Plan,Technical Issue,Mobile app crashes,Low,16,5,Positive,Resolved
+CMP-0985,2026-07-01,Chat,India,Web Store,Product Quality,Missing component in package,Low,33,5,Positive,Resolved
+CMP-0986,2026-07-02,Web Form,USA,Standard Plan,Delivery,Order delivered late,Low,33,3,Neutral,Resolved
+CMP-0987,2026-07-12,Chat,USA,Standard Plan,Delivery,Order delivered late,Medium,34,4,Positive,Resolved
+CMP-0988,2026-07-05,Chat,Singapore,Mobile App,Technical Issue,Website page not loading,High,17,4,Positive,Resolved
+CMP-0989,2026-07-04,Web Form,Japan,Premium Plan,Delivery,Delivery address issue,High,39,5,Positive,Resolved
+CMP-0990,2026-07-04,Phone,India,Web Store,Billing & Payments,Unexpected charge on account,High,10,5,Positive,Resolved
+CMP-0991,2026-07-31,Email,India,Standard Plan,Login & Account,Unable to reset password,Medium,6,4,Positive,Resolved
+CMP-0992,2026-07-17,Chat,USA,Standard Plan,Technical Issue,Website page not loading,Low,14,5,Positive,Resolved
+CMP-0993,2026-07-25,Email,India,Mobile App,Service Experience,Support response was slow,High,29,5,Positive,Resolved
+CMP-0994,2026-07-16,Social Media,USA,Standard Plan,Product Quality,Wrong product received,Medium,45,4,Positive,Resolved
+CMP-0995,2026-07-25,Phone,India,Premium Plan,Delivery,Package not delivered,Medium,21,5,Positive,Resolved
+CMP-0996,2026-07-23,Email,USA,Mobile App,Returns & Refunds,Exchange request pending,High,53,4,Positive,Resolved
+CMP-0997,2026-07-09,Email,India,Mobile App,Billing & Payments,Refund not received,High,19,5,Positive,Resolved
+CMP-0998,2026-07-17,Email,India,Standard Plan,Billing & Payments,Refund not received,Medium,15,5,Positive,Resolved
+CMP-0999,2026-07-12,Phone,India,Premium Plan,Technical Issue,Error while placing order,Medium,17,4,Positive,Resolved
+CMP-1000,2026-07-10,Email,USA,Web Store,Billing & Payments,Charged twice for the same order,Medium,13,4,Positive,Resolved
