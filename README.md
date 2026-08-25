@@ -1,26 +1,41 @@
-# AI Customer Support Requirement & Analytics Dashboard
+# Power BI Dashboard
 
-A portfolio mini-case study demonstrating **Business Analysis + SQL + Power BI + AI thinking**.
+## Data source
+Import `../data/customer_complaints_1000.csv` into Power BI Desktop.
 
-## Deliverables
-- `data/customer_complaints_1000.csv` — 1,000 synthetic complaints
-- `data/customer_complaints_1000.xlsx` — Excel dataset + KPI summary
-- `sql/customer_support_queries.sql` — analysis queries
-- `powerbi/README.md` — Power BI model, visuals and DAX measures
-- `powerbi/dashboard_mockup.png` — dashboard visual reference
-- `docs/BRD.md` — Business Requirement Document
-- `docs/BUSINESS_INSIGHTS.md` — 5 business insights
-- `ai/AI_RECOMMENDATION.md` — AI auto-categorization recommendation
+## Suggested dashboard layout
+Top KPI cards: Total Complaints; Avg Resolution Hours; Avg CSAT; 24h SLA %; High Priority %.
 
-## Headline KPIs
-- Total complaints: 1000
-- Average resolution time: 23.3 hours
-- Average CSAT: 4.49/5
-- 24-hour SLA: 62.8%
-- High priority: 28.8%
+Charts:
+- Complaints by Category — clustered bar
+- Complaints by Priority — donut
+- Avg Resolution Hours by Category — bar
+- Avg CSAT by Category — bar
+- Complaints by Channel — column
+- Complaint Trend by Date — line
+- Detail table with Complaint ID, Category, Issue, Priority, Resolution Time, CSAT
 
-## Power BI
-Power BI Desktop can import the CSV directly. Follow `powerbi/README.md` for the dashboard layout and DAX measures. A dashboard mockup is included because a `.pbix` file requires Power BI Desktop itself to generate.
+Slicers: Category, Channel, Region, Product, Priority, Status
 
-## Portfolio value
-**Requirement gathering → data modeling → SQL analysis → KPI design → dashboard specification → business insights → AI solution design.**
+## DAX measures
+
+Total Complaints = COUNTROWS(Complaints)
+
+Avg Resolution Hours = AVERAGE(Complaints[Resolution_Time_Hours])
+
+Avg CSAT = AVERAGE(Complaints[CSAT_Score])
+
+High Priority % =
+DIVIDE(
+    CALCULATE([Total Complaints], Complaints[Priority] = "High"),
+    [Total Complaints]
+)
+
+SLA 24h % =
+DIVIDE(
+    CALCULATE([Total Complaints], Complaints[Resolution_Time_Hours] <= 24),
+    [Total Complaints]
+)
+
+Low CSAT Complaints =
+CALCULATE([Total Complaints], Complaints[CSAT_Score] <= 2)
